@@ -1,0 +1,7 @@
+2024-07-24 23:09:33,405 - train - INFO - training started
+2024-07-24 23:09:33,432 - train - INFO - epoch: 0
+2024-07-24 23:09:33,729 - train - INFO - train loss: 12.610508
+2024-07-24 23:09:33,746 - train - INFO - valid loss: 2.280664
+2024-07-24 23:09:33,747 - train - INFO - valid accuracy: 0.731771
+2024-07-24 23:09:35,210 - train - INFO - epoch: 10
+2024-07-24 23:09:35,365 - train - INFO - train loss: 0.000168

@@ -1,0 +1,71 @@
+2024-07-24 22:48:49,825 - train - INFO - training started
+2024-07-24 22:48:49,831 - train - INFO - epoch: 0
+2024-07-24 22:48:50,024 - train - INFO - train loss: 9.386130
+2024-07-24 22:48:50,037 - train - INFO - valid loss: 3.046942
+2024-07-24 22:48:50,038 - train - INFO - valid accuracy: 0.698785
+2024-07-24 22:48:51,492 - train - INFO - epoch: 10
+2024-07-24 22:48:51,658 - train - INFO - train loss: 0.000246
+2024-07-24 22:48:53,465 - train - INFO - epoch: 20
+2024-07-24 22:48:53,626 - train - INFO - train loss: 0.000061
+2024-07-24 22:48:55,017 - train - INFO - epoch: 30
+2024-07-24 22:48:55,169 - train - INFO - train loss: 0.000038
+2024-07-24 22:48:56,506 - train - INFO - epoch: 40
+2024-07-24 22:48:56,683 - train - INFO - train loss: 0.000028
+2024-07-24 22:48:58,094 - train - INFO - epoch: 50
+2024-07-24 22:48:58,245 - train - INFO - train loss: 0.000021
+2024-07-24 22:48:59,718 - train - INFO - epoch: 60
+2024-07-24 22:48:59,888 - train - INFO - train loss: 0.000018
+2024-07-24 22:49:01,401 - train - INFO - epoch: 70
+2024-07-24 22:49:01,553 - train - INFO - train loss: 0.000015
+2024-07-24 22:49:02,983 - train - INFO - epoch: 80
+2024-07-24 22:49:03,147 - train - INFO - train loss: 0.000013
+2024-07-24 22:49:04,581 - train - INFO - epoch: 90
+2024-07-24 22:49:04,738 - train - INFO - train loss: 0.000011
+2024-07-24 22:49:06,139 - train - INFO - epoch: 100
+2024-07-24 22:49:06,297 - train - INFO - train loss: 0.000009
+2024-07-24 22:49:06,309 - train - INFO - valid loss: 1.659466
+2024-07-24 22:49:06,309 - train - INFO - valid accuracy: 0.830729
+2024-07-24 22:49:07,752 - train - INFO - epoch: 110
+2024-07-24 22:49:07,933 - train - INFO - train loss: 0.000008
+2024-07-24 22:49:09,474 - train - INFO - epoch: 120
+2024-07-24 22:49:09,644 - train - INFO - train loss: 0.000007
+2024-07-24 22:49:11,442 - train - INFO - epoch: 130
+2024-07-24 22:49:11,653 - train - INFO - train loss: 0.000006
+2024-07-24 22:49:13,844 - train - INFO - epoch: 140
+2024-07-24 22:49:14,066 - train - INFO - train loss: 0.000005
+2024-07-24 22:49:15,977 - train - INFO - epoch: 150
+2024-07-24 22:49:16,177 - train - INFO - train loss: 0.000005
+2024-07-24 22:49:18,030 - train - INFO - epoch: 160
+2024-07-24 22:49:18,234 - train - INFO - train loss: 0.000004
+2024-07-24 22:49:20,082 - train - INFO - epoch: 170
+2024-07-24 22:49:20,284 - train - INFO - train loss: 0.000004
+2024-07-24 22:49:22,110 - train - INFO - epoch: 180
+2024-07-24 22:49:22,308 - train - INFO - train loss: 0.000003
+2024-07-24 22:49:24,148 - train - INFO - epoch: 190
+2024-07-24 22:49:24,367 - train - INFO - train loss: 0.000003
+2024-07-24 22:49:26,599 - train - INFO - epoch: 200
+2024-07-24 22:49:26,919 - train - INFO - train loss: 0.000003
+2024-07-24 22:49:26,956 - train - INFO - valid loss: 1.376015
+2024-07-24 22:49:26,956 - train - INFO - valid accuracy: 0.816840
+2024-07-24 22:49:29,468 - train - INFO - epoch: 210
+2024-07-24 22:49:29,679 - train - INFO - train loss: 0.000002
+2024-07-24 22:49:31,625 - train - INFO - epoch: 220
+2024-07-24 22:49:31,853 - train - INFO - train loss: 0.000002
+2024-07-24 22:49:33,886 - train - INFO - epoch: 230
+2024-07-24 22:49:34,101 - train - INFO - train loss: 0.000002
+2024-07-24 22:49:36,057 - train - INFO - epoch: 240
+2024-07-24 22:49:36,257 - train - INFO - train loss: 0.000002
+2024-07-24 22:49:38,250 - train - INFO - epoch: 250
+2024-07-24 22:49:38,447 - train - INFO - train loss: 0.000002
+2024-07-24 22:49:40,363 - train - INFO - epoch: 260
+2024-07-24 22:49:40,559 - train - INFO - train loss: 0.000002
+2024-07-24 22:49:42,396 - train - INFO - epoch: 270
+2024-07-24 22:49:42,596 - train - INFO - train loss: 0.000001
+2024-07-24 22:49:44,435 - train - INFO - epoch: 280
+2024-07-24 22:49:44,675 - train - INFO - train loss: 0.000001
+2024-07-24 22:49:46,508 - train - INFO - epoch: 290
+2024-07-24 22:49:46,729 - train - INFO - train loss: 0.000001
+2024-07-24 22:49:48,538 - train - INFO - training finished
+2024-07-24 22:49:48,538 - test - INFO - testing started
+2024-07-24 22:49:48,551 - test - INFO - test accuracy: 0.875868
+2024-07-24 22:49:48,551 - test - INFO - testing finished

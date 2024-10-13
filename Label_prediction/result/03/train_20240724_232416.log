@@ -1,0 +1,225 @@
+2024-07-24 23:24:16,691 - train - INFO - training started
+2024-07-24 23:24:16,703 - train - INFO - epoch: 0
+2024-07-24 23:24:17,026 - train - INFO - train loss: 13.657132
+2024-07-24 23:24:17,045 - train - INFO - valid loss: 3.563602
+2024-07-24 23:24:17,046 - train - INFO - valid accuracy: 0.649306
+2024-07-24 23:24:18,677 - train - INFO - epoch: 10
+2024-07-24 23:24:18,864 - train - INFO - train loss: 0.000340
+2024-07-24 23:24:20,842 - train - INFO - epoch: 20
+2024-07-24 23:24:21,021 - train - INFO - train loss: 0.000136
+2024-07-24 23:24:23,007 - train - INFO - epoch: 30
+2024-07-24 23:24:23,188 - train - INFO - train loss: 0.000106
+2024-07-24 23:24:24,738 - train - INFO - epoch: 40
+2024-07-24 23:24:24,911 - train - INFO - train loss: 0.000083
+2024-07-24 23:24:26,454 - train - INFO - epoch: 50
+2024-07-24 23:24:26,630 - train - INFO - train loss: 0.000073
+2024-07-24 23:24:28,202 - train - INFO - epoch: 60
+2024-07-24 23:24:28,372 - train - INFO - train loss: 0.000068
+2024-07-24 23:24:29,987 - train - INFO - epoch: 70
+2024-07-24 23:24:30,157 - train - INFO - train loss: 0.000062
+2024-07-24 23:24:31,746 - train - INFO - epoch: 80
+2024-07-24 23:24:31,920 - train - INFO - train loss: 0.000061
+2024-07-24 23:24:33,469 - train - INFO - epoch: 90
+2024-07-24 23:24:33,665 - train - INFO - train loss: 0.000059
+2024-07-24 23:24:35,280 - train - INFO - epoch: 100
+2024-07-24 23:24:35,468 - train - INFO - train loss: 0.000056
+2024-07-24 23:24:35,482 - train - INFO - valid loss: 0.761215
+2024-07-24 23:24:35,482 - train - INFO - valid accuracy: 0.894097
+2024-07-24 23:24:37,242 - train - INFO - epoch: 110
+2024-07-24 23:24:37,444 - train - INFO - train loss: 0.000055
+2024-07-24 23:24:39,430 - train - INFO - epoch: 120
+2024-07-24 23:24:39,642 - train - INFO - train loss: 0.000053
+2024-07-24 23:24:41,555 - train - INFO - epoch: 130
+2024-07-24 23:24:41,755 - train - INFO - train loss: 0.000053
+2024-07-24 23:24:43,678 - train - INFO - epoch: 140
+2024-07-24 23:24:43,889 - train - INFO - train loss: 0.000054
+2024-07-24 23:24:45,785 - train - INFO - epoch: 150
+2024-07-24 23:24:45,998 - train - INFO - train loss: 0.000054
+2024-07-24 23:24:47,876 - train - INFO - epoch: 160
+2024-07-24 23:24:48,084 - train - INFO - train loss: 0.000055
+2024-07-24 23:24:49,967 - train - INFO - epoch: 170
+2024-07-24 23:24:50,182 - train - INFO - train loss: 0.000052
+2024-07-24 23:24:52,123 - train - INFO - epoch: 180
+2024-07-24 23:24:52,327 - train - INFO - train loss: 0.000052
+2024-07-24 23:24:54,207 - train - INFO - epoch: 190
+2024-07-24 23:24:54,481 - train - INFO - train loss: 0.000052
+2024-07-24 23:24:56,616 - train - INFO - epoch: 200
+2024-07-24 23:24:56,837 - train - INFO - train loss: 0.000051
+2024-07-24 23:24:56,853 - train - INFO - valid loss: 0.864208
+2024-07-24 23:24:56,853 - train - INFO - valid accuracy: 0.881944
+2024-07-24 23:24:59,082 - train - INFO - epoch: 210
+2024-07-24 23:24:59,298 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:01,829 - train - INFO - epoch: 220
+2024-07-24 23:25:02,063 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:04,043 - train - INFO - epoch: 230
+2024-07-24 23:25:04,249 - train - INFO - train loss: 0.000053
+2024-07-24 23:25:06,229 - train - INFO - epoch: 240
+2024-07-24 23:25:06,439 - train - INFO - train loss: 0.000053
+2024-07-24 23:25:08,321 - train - INFO - epoch: 250
+2024-07-24 23:25:08,529 - train - INFO - train loss: 0.000052
+2024-07-24 23:25:10,547 - train - INFO - epoch: 260
+2024-07-24 23:25:10,909 - train - INFO - train loss: 0.000052
+2024-07-24 23:25:13,181 - train - INFO - epoch: 270
+2024-07-24 23:25:13,393 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:15,381 - train - INFO - epoch: 280
+2024-07-24 23:25:15,593 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:17,534 - train - INFO - epoch: 290
+2024-07-24 23:25:17,788 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:20,234 - train - INFO - epoch: 300
+2024-07-24 23:25:20,486 - train - INFO - train loss: 0.000052
+2024-07-24 23:25:20,502 - train - INFO - valid loss: 1.088591
+2024-07-24 23:25:20,502 - train - INFO - valid accuracy: 0.875868
+2024-07-24 23:25:23,050 - train - INFO - epoch: 310
+2024-07-24 23:25:23,271 - train - INFO - train loss: 0.000053
+2024-07-24 23:25:25,155 - train - INFO - epoch: 320
+2024-07-24 23:25:25,358 - train - INFO - train loss: 0.000052
+2024-07-24 23:25:27,238 - train - INFO - epoch: 330
+2024-07-24 23:25:27,458 - train - INFO - train loss: 0.000052
+2024-07-24 23:25:29,553 - train - INFO - epoch: 340
+2024-07-24 23:25:29,771 - train - INFO - train loss: 0.000052
+2024-07-24 23:25:31,865 - train - INFO - epoch: 350
+2024-07-24 23:25:32,082 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:34,317 - train - INFO - epoch: 360
+2024-07-24 23:25:34,540 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:36,440 - train - INFO - epoch: 370
+2024-07-24 23:25:36,656 - train - INFO - train loss: 0.000054
+2024-07-24 23:25:38,635 - train - INFO - epoch: 380
+2024-07-24 23:25:38,849 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:40,702 - train - INFO - epoch: 390
+2024-07-24 23:25:40,934 - train - INFO - train loss: 0.000052
+2024-07-24 23:25:42,752 - train - INFO - epoch: 400
+2024-07-24 23:25:42,980 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:42,997 - train - INFO - valid loss: 1.072874
+2024-07-24 23:25:42,998 - train - INFO - valid accuracy: 0.875868
+2024-07-24 23:25:44,907 - train - INFO - epoch: 410
+2024-07-24 23:25:45,118 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:47,202 - train - INFO - epoch: 420
+2024-07-24 23:25:47,421 - train - INFO - train loss: 0.000050
+2024-07-24 23:25:49,682 - train - INFO - epoch: 430
+2024-07-24 23:25:49,916 - train - INFO - train loss: 0.000052
+2024-07-24 23:25:52,260 - train - INFO - epoch: 440
+2024-07-24 23:25:52,495 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:54,363 - train - INFO - epoch: 450
+2024-07-24 23:25:54,589 - train - INFO - train loss: 0.000054
+2024-07-24 23:25:56,458 - train - INFO - epoch: 460
+2024-07-24 23:25:56,635 - train - INFO - train loss: 0.000051
+2024-07-24 23:25:58,381 - train - INFO - epoch: 470
+2024-07-24 23:25:58,572 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:00,833 - train - INFO - epoch: 480
+2024-07-24 23:26:01,031 - train - INFO - train loss: 0.000050
+2024-07-24 23:26:02,940 - train - INFO - epoch: 490
+2024-07-24 23:26:03,134 - train - INFO - train loss: 0.000053
+2024-07-24 23:26:05,066 - train - INFO - epoch: 500
+2024-07-24 23:26:05,251 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:05,268 - train - INFO - valid loss: 0.898080
+2024-07-24 23:26:05,268 - train - INFO - valid accuracy: 0.881944
+2024-07-24 23:26:07,248 - train - INFO - epoch: 510
+2024-07-24 23:26:07,440 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:09,166 - train - INFO - epoch: 520
+2024-07-24 23:26:09,353 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:11,040 - train - INFO - epoch: 530
+2024-07-24 23:26:11,225 - train - INFO - train loss: 0.000053
+2024-07-24 23:26:12,886 - train - INFO - epoch: 540
+2024-07-24 23:26:13,085 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:14,715 - train - INFO - epoch: 550
+2024-07-24 23:26:14,901 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:16,580 - train - INFO - epoch: 560
+2024-07-24 23:26:16,770 - train - INFO - train loss: 0.000050
+2024-07-24 23:26:18,483 - train - INFO - epoch: 570
+2024-07-24 23:26:18,665 - train - INFO - train loss: 0.000053
+2024-07-24 23:26:20,332 - train - INFO - epoch: 580
+2024-07-24 23:26:20,517 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:22,205 - train - INFO - epoch: 590
+2024-07-24 23:26:22,385 - train - INFO - train loss: 0.000050
+2024-07-24 23:26:24,000 - train - INFO - epoch: 600
+2024-07-24 23:26:24,203 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:24,220 - train - INFO - valid loss: 0.853543
+2024-07-24 23:26:24,220 - train - INFO - valid accuracy: 0.894097
+2024-07-24 23:26:25,968 - train - INFO - epoch: 610
+2024-07-24 23:26:26,162 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:27,818 - train - INFO - epoch: 620
+2024-07-24 23:26:27,994 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:29,671 - train - INFO - epoch: 630
+2024-07-24 23:26:29,851 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:31,514 - train - INFO - epoch: 640
+2024-07-24 23:26:31,696 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:33,320 - train - INFO - epoch: 650
+2024-07-24 23:26:33,528 - train - INFO - train loss: 0.000050
+2024-07-24 23:26:35,157 - train - INFO - epoch: 660
+2024-07-24 23:26:35,344 - train - INFO - train loss: 0.000053
+2024-07-24 23:26:37,013 - train - INFO - epoch: 670
+2024-07-24 23:26:37,331 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:39,003 - train - INFO - epoch: 680
+2024-07-24 23:26:39,189 - train - INFO - train loss: 0.000050
+2024-07-24 23:26:40,845 - train - INFO - epoch: 690
+2024-07-24 23:26:41,024 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:43,176 - train - INFO - epoch: 700
+2024-07-24 23:26:43,438 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:43,462 - train - INFO - valid loss: 0.850244
+2024-07-24 23:26:43,462 - train - INFO - valid accuracy: 0.888021
+2024-07-24 23:26:46,106 - train - INFO - epoch: 710
+2024-07-24 23:26:46,433 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:48,999 - train - INFO - epoch: 720
+2024-07-24 23:26:49,213 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:50,952 - train - INFO - epoch: 730
+2024-07-24 23:26:51,165 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:53,433 - train - INFO - epoch: 740
+2024-07-24 23:26:53,638 - train - INFO - train loss: 0.000051
+2024-07-24 23:26:55,673 - train - INFO - epoch: 750
+2024-07-24 23:26:55,903 - train - INFO - train loss: 0.000052
+2024-07-24 23:26:58,066 - train - INFO - epoch: 760
+2024-07-24 23:26:58,443 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:01,326 - train - INFO - epoch: 770
+2024-07-24 23:27:01,564 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:03,901 - train - INFO - epoch: 780
+2024-07-24 23:27:04,102 - train - INFO - train loss: 0.000051
+2024-07-24 23:27:06,374 - train - INFO - epoch: 790
+2024-07-24 23:27:06,567 - train - INFO - train loss: 0.000051
+2024-07-24 23:27:08,839 - train - INFO - epoch: 800
+2024-07-24 23:27:09,137 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:09,152 - train - INFO - valid loss: 0.805207
+2024-07-24 23:27:09,152 - train - INFO - valid accuracy: 0.888021
+2024-07-24 23:27:12,054 - train - INFO - epoch: 810
+2024-07-24 23:27:12,439 - train - INFO - train loss: 0.000053
+2024-07-24 23:27:15,269 - train - INFO - epoch: 820
+2024-07-24 23:27:15,516 - train - INFO - train loss: 0.000053
+2024-07-24 23:27:18,341 - train - INFO - epoch: 830
+2024-07-24 23:27:18,591 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:20,884 - train - INFO - epoch: 840
+2024-07-24 23:27:21,072 - train - INFO - train loss: 0.000051
+2024-07-24 23:27:23,642 - train - INFO - epoch: 850
+2024-07-24 23:27:23,966 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:26,529 - train - INFO - epoch: 860
+2024-07-24 23:27:26,797 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:29,513 - train - INFO - epoch: 870
+2024-07-24 23:27:29,789 - train - INFO - train loss: 0.000051
+2024-07-24 23:27:32,060 - train - INFO - epoch: 880
+2024-07-24 23:27:32,272 - train - INFO - train loss: 0.000053
+2024-07-24 23:27:34,608 - train - INFO - epoch: 890
+2024-07-24 23:27:34,817 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:37,232 - train - INFO - epoch: 900
+2024-07-24 23:27:37,423 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:37,438 - train - INFO - valid loss: 0.824904
+2024-07-24 23:27:37,438 - train - INFO - valid accuracy: 0.875868
+2024-07-24 23:27:40,403 - train - INFO - epoch: 910
+2024-07-24 23:27:40,780 - train - INFO - train loss: 0.000055
+2024-07-24 23:27:42,803 - train - INFO - epoch: 920
+2024-07-24 23:27:43,005 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:44,624 - train - INFO - epoch: 930
+2024-07-24 23:27:44,776 - train - INFO - train loss: 0.000050
+2024-07-24 23:27:46,209 - train - INFO - epoch: 940
+2024-07-24 23:27:46,385 - train - INFO - train loss: 0.000050
+2024-07-24 23:27:47,795 - train - INFO - epoch: 950
+2024-07-24 23:27:47,951 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:49,613 - train - INFO - epoch: 960
+2024-07-24 23:27:49,792 - train - INFO - train loss: 0.000055
+2024-07-24 23:27:51,538 - train - INFO - epoch: 970
+2024-07-24 23:27:51,718 - train - INFO - train loss: 0.000052
+2024-07-24 23:27:53,428 - train - INFO - epoch: 980
+2024-07-24 23:27:53,619 - train - INFO - train loss: 0.000051
+2024-07-24 23:27:55,382 - train - INFO - epoch: 990
+2024-07-24 23:27:55,602 - train - INFO - train loss: 0.000051
+2024-07-24 23:27:57,373 - train - INFO - training finished
+2024-07-24 23:27:57,375 - test - INFO - testing started
+2024-07-24 23:27:57,389 - test - INFO - test accuracy: 0.891493
+2024-07-24 23:27:57,389 - test - INFO - testing finished
