@@ -1,0 +1,994 @@
+2024-08-03 14:33:37,630 - train - INFO - training started
+2024-08-03 14:33:37,636 - train - INFO - epoch: 0
+2024-08-03 14:33:37,814 - train - INFO - train loss: 18894.505559
+2024-08-03 14:33:37,815 - train - INFO - train loss kl: -1.164072
+2024-08-03 14:33:37,815 - train - INFO - train loss reconstruction: 18894.505559
+2024-08-03 14:33:38,211 - train - INFO - valid loss: 11191.552979
+2024-08-03 14:33:38,213 - train - INFO - valid accuracy: nan
+2024-08-03 14:33:40,242 - train - INFO - epoch: 10
+2024-08-03 14:33:40,420 - train - INFO - train loss: 9826.069937
+2024-08-03 14:33:40,421 - train - INFO - train loss kl: -8.383037
+2024-08-03 14:33:40,421 - train - INFO - train loss reconstruction: 9826.069937
+2024-08-03 14:33:42,021 - train - INFO - epoch: 20
+2024-08-03 14:33:42,187 - train - INFO - train loss: 8110.484788
+2024-08-03 14:33:42,188 - train - INFO - train loss kl: -13.068290
+2024-08-03 14:33:42,188 - train - INFO - train loss reconstruction: 8110.484788
+2024-08-03 14:33:43,984 - train - INFO - epoch: 30
+2024-08-03 14:33:44,186 - train - INFO - train loss: 7519.906288
+2024-08-03 14:33:44,186 - train - INFO - train loss kl: -13.908708
+2024-08-03 14:33:44,186 - train - INFO - train loss reconstruction: 7519.906288
+2024-08-03 14:33:45,840 - train - INFO - epoch: 40
+2024-08-03 14:33:46,019 - train - INFO - train loss: 7243.367450
+2024-08-03 14:33:46,020 - train - INFO - train loss kl: -14.015482
+2024-08-03 14:33:46,020 - train - INFO - train loss reconstruction: 7243.367450
+2024-08-03 14:33:47,629 - train - INFO - epoch: 50
+2024-08-03 14:33:47,813 - train - INFO - train loss: 7028.236065
+2024-08-03 14:33:47,813 - train - INFO - train loss kl: -14.695846
+2024-08-03 14:33:47,813 - train - INFO - train loss reconstruction: 7028.236065
+2024-08-03 14:33:49,674 - train - INFO - epoch: 60
+2024-08-03 14:33:49,928 - train - INFO - train loss: 6947.147912
+2024-08-03 14:33:49,928 - train - INFO - train loss kl: -15.200068
+2024-08-03 14:33:49,929 - train - INFO - train loss reconstruction: 6947.147912
+2024-08-03 14:33:52,328 - train - INFO - epoch: 70
+2024-08-03 14:33:52,596 - train - INFO - train loss: 6873.813176
+2024-08-03 14:33:52,596 - train - INFO - train loss kl: -16.218246
+2024-08-03 14:33:52,596 - train - INFO - train loss reconstruction: 6873.813176
+2024-08-03 14:33:54,877 - train - INFO - epoch: 80
+2024-08-03 14:33:55,127 - train - INFO - train loss: 6802.272405
+2024-08-03 14:33:55,127 - train - INFO - train loss kl: -16.527623
+2024-08-03 14:33:55,127 - train - INFO - train loss reconstruction: 6802.272405
+2024-08-03 14:33:57,591 - train - INFO - epoch: 90
+2024-08-03 14:33:57,838 - train - INFO - train loss: 6638.885179
+2024-08-03 14:33:57,838 - train - INFO - train loss kl: -16.618333
+2024-08-03 14:33:57,838 - train - INFO - train loss reconstruction: 6638.885179
+2024-08-03 14:34:00,175 - train - INFO - epoch: 100
+2024-08-03 14:34:00,676 - train - INFO - train loss: 6634.736892
+2024-08-03 14:34:00,676 - train - INFO - train loss kl: -17.160727
+2024-08-03 14:34:00,676 - train - INFO - train loss reconstruction: 6634.736892
+2024-08-03 14:34:01,028 - train - INFO - valid loss: 5769.171143
+2024-08-03 14:34:01,029 - train - INFO - valid accuracy: nan
+2024-08-03 14:34:03,605 - train - INFO - epoch: 110
+2024-08-03 14:34:03,936 - train - INFO - train loss: 6548.409612
+2024-08-03 14:34:03,936 - train - INFO - train loss kl: -17.754524
+2024-08-03 14:34:03,936 - train - INFO - train loss reconstruction: 6548.409612
+2024-08-03 14:34:06,317 - train - INFO - epoch: 120
+2024-08-03 14:34:06,573 - train - INFO - train loss: 6410.922589
+2024-08-03 14:34:06,573 - train - INFO - train loss kl: -17.628560
+2024-08-03 14:34:06,573 - train - INFO - train loss reconstruction: 6410.922589
+2024-08-03 14:34:08,976 - train - INFO - epoch: 130
+2024-08-03 14:34:09,242 - train - INFO - train loss: 6444.007719
+2024-08-03 14:34:09,242 - train - INFO - train loss kl: -18.142384
+2024-08-03 14:34:09,242 - train - INFO - train loss reconstruction: 6444.007719
+2024-08-03 14:34:11,569 - train - INFO - epoch: 140
+2024-08-03 14:34:11,826 - train - INFO - train loss: 6379.524470
+2024-08-03 14:34:11,826 - train - INFO - train loss kl: -18.378628
+2024-08-03 14:34:11,826 - train - INFO - train loss reconstruction: 6379.524470
+2024-08-03 14:34:14,187 - train - INFO - epoch: 150
+2024-08-03 14:34:14,440 - train - INFO - train loss: 6342.822303
+2024-08-03 14:34:14,440 - train - INFO - train loss kl: -18.658289
+2024-08-03 14:34:14,440 - train - INFO - train loss reconstruction: 6342.822303
+2024-08-03 14:34:17,086 - train - INFO - epoch: 160
+2024-08-03 14:34:17,384 - train - INFO - train loss: 6390.055307
+2024-08-03 14:34:17,384 - train - INFO - train loss kl: -18.999153
+2024-08-03 14:34:17,384 - train - INFO - train loss reconstruction: 6390.055307
+2024-08-03 14:34:19,794 - train - INFO - epoch: 170
+2024-08-03 14:34:20,048 - train - INFO - train loss: 6369.190336
+2024-08-03 14:34:20,049 - train - INFO - train loss kl: -19.569645
+2024-08-03 14:34:20,049 - train - INFO - train loss reconstruction: 6369.190336
+2024-08-03 14:34:22,351 - train - INFO - epoch: 180
+2024-08-03 14:34:22,602 - train - INFO - train loss: 6291.172758
+2024-08-03 14:34:22,602 - train - INFO - train loss kl: -18.891526
+2024-08-03 14:34:22,602 - train - INFO - train loss reconstruction: 6291.172758
+2024-08-03 14:34:24,867 - train - INFO - epoch: 190
+2024-08-03 14:34:25,113 - train - INFO - train loss: 6290.694561
+2024-08-03 14:34:25,114 - train - INFO - train loss kl: -19.201544
+2024-08-03 14:34:25,114 - train - INFO - train loss reconstruction: 6290.694561
+2024-08-03 14:34:27,400 - train - INFO - epoch: 200
+2024-08-03 14:34:27,663 - train - INFO - train loss: 6238.207482
+2024-08-03 14:34:27,663 - train - INFO - train loss kl: -19.412621
+2024-08-03 14:34:27,663 - train - INFO - train loss reconstruction: 6238.207482
+2024-08-03 14:34:28,020 - train - INFO - valid loss: 5778.768799
+2024-08-03 14:34:28,021 - train - INFO - valid accuracy: nan
+2024-08-03 14:34:30,350 - train - INFO - epoch: 210
+2024-08-03 14:34:30,599 - train - INFO - train loss: 6231.001747
+2024-08-03 14:34:30,600 - train - INFO - train loss kl: -19.835229
+2024-08-03 14:34:30,600 - train - INFO - train loss reconstruction: 6231.001747
+2024-08-03 14:34:32,878 - train - INFO - epoch: 220
+2024-08-03 14:34:33,161 - train - INFO - train loss: 6145.146259
+2024-08-03 14:34:33,162 - train - INFO - train loss kl: -20.596379
+2024-08-03 14:34:33,162 - train - INFO - train loss reconstruction: 6145.146259
+2024-08-03 14:34:35,452 - train - INFO - epoch: 230
+2024-08-03 14:34:35,701 - train - INFO - train loss: 6171.104605
+2024-08-03 14:34:35,701 - train - INFO - train loss kl: -20.631109
+2024-08-03 14:34:35,701 - train - INFO - train loss reconstruction: 6171.104605
+2024-08-03 14:34:38,130 - train - INFO - epoch: 240
+2024-08-03 14:34:38,391 - train - INFO - train loss: 6133.130972
+2024-08-03 14:34:38,391 - train - INFO - train loss kl: -20.280769
+2024-08-03 14:34:38,391 - train - INFO - train loss reconstruction: 6133.130972
+2024-08-03 14:34:40,728 - train - INFO - epoch: 250
+2024-08-03 14:34:40,982 - train - INFO - train loss: 6074.646372
+2024-08-03 14:34:40,982 - train - INFO - train loss kl: -20.425800
+2024-08-03 14:34:40,982 - train - INFO - train loss reconstruction: 6074.646372
+2024-08-03 14:34:43,281 - train - INFO - epoch: 260
+2024-08-03 14:34:43,559 - train - INFO - train loss: 6209.313702
+2024-08-03 14:34:43,560 - train - INFO - train loss kl: -20.686402
+2024-08-03 14:34:43,560 - train - INFO - train loss reconstruction: 6209.313702
+2024-08-03 14:34:45,999 - train - INFO - epoch: 270
+2024-08-03 14:34:46,263 - train - INFO - train loss: 6129.809213
+2024-08-03 14:34:46,264 - train - INFO - train loss kl: -21.259559
+2024-08-03 14:34:46,264 - train - INFO - train loss reconstruction: 6129.809213
+2024-08-03 14:34:48,658 - train - INFO - epoch: 280
+2024-08-03 14:34:48,940 - train - INFO - train loss: 6081.869347
+2024-08-03 14:34:48,940 - train - INFO - train loss kl: -21.725783
+2024-08-03 14:34:48,940 - train - INFO - train loss reconstruction: 6081.869347
+2024-08-03 14:34:51,276 - train - INFO - epoch: 290
+2024-08-03 14:34:51,536 - train - INFO - train loss: 6018.104342
+2024-08-03 14:34:51,537 - train - INFO - train loss kl: -21.863516
+2024-08-03 14:34:51,537 - train - INFO - train loss reconstruction: 6018.104342
+2024-08-03 14:34:53,944 - train - INFO - epoch: 300
+2024-08-03 14:34:54,210 - train - INFO - train loss: 6069.084398
+2024-08-03 14:34:54,211 - train - INFO - train loss kl: -21.815197
+2024-08-03 14:34:54,211 - train - INFO - train loss reconstruction: 6069.084398
+2024-08-03 14:34:54,536 - train - INFO - valid loss: 5927.395264
+2024-08-03 14:34:54,537 - train - INFO - valid accuracy: nan
+2024-08-03 14:34:57,284 - train - INFO - epoch: 310
+2024-08-03 14:34:57,872 - train - INFO - train loss: 6068.430138
+2024-08-03 14:34:57,873 - train - INFO - train loss kl: -22.043329
+2024-08-03 14:34:57,873 - train - INFO - train loss reconstruction: 6068.430138
+2024-08-03 14:35:00,707 - train - INFO - epoch: 320
+2024-08-03 14:35:01,030 - train - INFO - train loss: 6088.828820
+2024-08-03 14:35:01,030 - train - INFO - train loss kl: -21.898848
+2024-08-03 14:35:01,030 - train - INFO - train loss reconstruction: 6088.828820
+2024-08-03 14:35:03,651 - train - INFO - epoch: 330
+2024-08-03 14:35:03,913 - train - INFO - train loss: 5980.427509
+2024-08-03 14:35:03,913 - train - INFO - train loss kl: -22.161029
+2024-08-03 14:35:03,913 - train - INFO - train loss reconstruction: 5980.427509
+2024-08-03 14:35:06,272 - train - INFO - epoch: 340
+2024-08-03 14:35:06,562 - train - INFO - train loss: 6030.828670
+2024-08-03 14:35:06,562 - train - INFO - train loss kl: -22.420373
+2024-08-03 14:35:06,562 - train - INFO - train loss reconstruction: 6030.828670
+2024-08-03 14:35:09,245 - train - INFO - epoch: 350
+2024-08-03 14:35:09,560 - train - INFO - train loss: 6018.747145
+2024-08-03 14:35:09,560 - train - INFO - train loss kl: -22.160688
+2024-08-03 14:35:09,560 - train - INFO - train loss reconstruction: 6018.747145
+2024-08-03 14:35:12,492 - train - INFO - epoch: 360
+2024-08-03 14:35:12,778 - train - INFO - train loss: 5919.332576
+2024-08-03 14:35:12,778 - train - INFO - train loss kl: -22.887042
+2024-08-03 14:35:12,778 - train - INFO - train loss reconstruction: 5919.332576
+2024-08-03 14:35:15,429 - train - INFO - epoch: 370
+2024-08-03 14:35:15,727 - train - INFO - train loss: 5976.307073
+2024-08-03 14:35:15,727 - train - INFO - train loss kl: -22.574454
+2024-08-03 14:35:15,728 - train - INFO - train loss reconstruction: 5976.307073
+2024-08-03 14:35:18,603 - train - INFO - epoch: 380
+2024-08-03 14:35:18,899 - train - INFO - train loss: 6029.925650
+2024-08-03 14:35:18,899 - train - INFO - train loss kl: -22.959159
+2024-08-03 14:35:18,900 - train - INFO - train loss reconstruction: 6029.925650
+2024-08-03 14:35:21,585 - train - INFO - epoch: 390
+2024-08-03 14:35:21,888 - train - INFO - train loss: 5954.260630
+2024-08-03 14:35:21,889 - train - INFO - train loss kl: -23.148385
+2024-08-03 14:35:21,889 - train - INFO - train loss reconstruction: 5954.260630
+2024-08-03 14:35:24,598 - train - INFO - epoch: 400
+2024-08-03 14:35:24,885 - train - INFO - train loss: 5909.745418
+2024-08-03 14:35:24,885 - train - INFO - train loss kl: -23.298824
+2024-08-03 14:35:24,885 - train - INFO - train loss reconstruction: 5909.745418
+2024-08-03 14:35:25,281 - train - INFO - valid loss: 5892.974609
+2024-08-03 14:35:25,282 - train - INFO - valid accuracy: nan
+2024-08-03 14:35:27,933 - train - INFO - epoch: 410
+2024-08-03 14:35:28,231 - train - INFO - train loss: 5948.815073
+2024-08-03 14:35:28,231 - train - INFO - train loss kl: -23.204676
+2024-08-03 14:35:28,231 - train - INFO - train loss reconstruction: 5948.815073
+2024-08-03 14:35:30,836 - train - INFO - epoch: 420
+2024-08-03 14:35:31,121 - train - INFO - train loss: 5845.974572
+2024-08-03 14:35:31,121 - train - INFO - train loss kl: -23.261947
+2024-08-03 14:35:31,121 - train - INFO - train loss reconstruction: 5845.974572
+2024-08-03 14:35:33,716 - train - INFO - epoch: 430
+2024-08-03 14:35:33,998 - train - INFO - train loss: 5941.332257
+2024-08-03 14:35:33,998 - train - INFO - train loss kl: -24.095600
+2024-08-03 14:35:33,998 - train - INFO - train loss reconstruction: 5941.332257
+2024-08-03 14:35:36,645 - train - INFO - epoch: 440
+2024-08-03 14:35:36,930 - train - INFO - train loss: 5900.123817
+2024-08-03 14:35:36,930 - train - INFO - train loss kl: -23.625254
+2024-08-03 14:35:36,930 - train - INFO - train loss reconstruction: 5900.123817
+2024-08-03 14:35:39,512 - train - INFO - epoch: 450
+2024-08-03 14:35:39,799 - train - INFO - train loss: 5877.843468
+2024-08-03 14:35:39,799 - train - INFO - train loss kl: -23.760190
+2024-08-03 14:35:39,800 - train - INFO - train loss reconstruction: 5877.843468
+2024-08-03 14:35:42,386 - train - INFO - epoch: 460
+2024-08-03 14:35:42,712 - train - INFO - train loss: 5914.980563
+2024-08-03 14:35:42,712 - train - INFO - train loss kl: -23.541239
+2024-08-03 14:35:42,713 - train - INFO - train loss reconstruction: 5914.980563
+2024-08-03 14:35:45,282 - train - INFO - epoch: 470
+2024-08-03 14:35:45,586 - train - INFO - train loss: 5914.821439
+2024-08-03 14:35:45,586 - train - INFO - train loss kl: -23.568871
+2024-08-03 14:35:45,586 - train - INFO - train loss reconstruction: 5914.821439
+2024-08-03 14:35:48,342 - train - INFO - epoch: 480
+2024-08-03 14:35:48,618 - train - INFO - train loss: 5841.177885
+2024-08-03 14:35:48,619 - train - INFO - train loss kl: -24.110088
+2024-08-03 14:35:48,619 - train - INFO - train loss reconstruction: 5841.177885
+2024-08-03 14:35:51,202 - train - INFO - epoch: 490
+2024-08-03 14:35:51,478 - train - INFO - train loss: 5869.316406
+2024-08-03 14:35:51,478 - train - INFO - train loss kl: -23.633946
+2024-08-03 14:35:51,478 - train - INFO - train loss reconstruction: 5869.316406
+2024-08-03 14:35:54,167 - train - INFO - epoch: 500
+2024-08-03 14:35:54,454 - train - INFO - train loss: 5911.980037
+2024-08-03 14:35:54,455 - train - INFO - train loss kl: -23.877051
+2024-08-03 14:35:54,455 - train - INFO - train loss reconstruction: 5911.980037
+2024-08-03 14:35:54,870 - train - INFO - valid loss: 5983.543945
+2024-08-03 14:35:54,871 - train - INFO - valid accuracy: nan
+2024-08-03 14:35:57,458 - train - INFO - epoch: 510
+2024-08-03 14:35:57,747 - train - INFO - train loss: 5860.691500
+2024-08-03 14:35:57,747 - train - INFO - train loss kl: -24.337434
+2024-08-03 14:35:57,747 - train - INFO - train loss reconstruction: 5860.691500
+2024-08-03 14:36:00,394 - train - INFO - epoch: 520
+2024-08-03 14:36:00,701 - train - INFO - train loss: 5861.759672
+2024-08-03 14:36:00,701 - train - INFO - train loss kl: -24.807746
+2024-08-03 14:36:00,701 - train - INFO - train loss reconstruction: 5861.759672
+2024-08-03 14:36:03,279 - train - INFO - epoch: 530
+2024-08-03 14:36:03,558 - train - INFO - train loss: 5802.442383
+2024-08-03 14:36:03,558 - train - INFO - train loss kl: -25.074197
+2024-08-03 14:36:03,559 - train - INFO - train loss reconstruction: 5802.442383
+2024-08-03 14:36:06,168 - train - INFO - epoch: 540
+2024-08-03 14:36:06,452 - train - INFO - train loss: 5816.533560
+2024-08-03 14:36:06,452 - train - INFO - train loss kl: -25.139149
+2024-08-03 14:36:06,452 - train - INFO - train loss reconstruction: 5816.533560
+2024-08-03 14:36:09,019 - train - INFO - epoch: 550
+2024-08-03 14:36:09,307 - train - INFO - train loss: 5860.722243
+2024-08-03 14:36:09,307 - train - INFO - train loss kl: -25.911811
+2024-08-03 14:36:09,307 - train - INFO - train loss reconstruction: 5860.722243
+2024-08-03 14:36:11,901 - train - INFO - epoch: 560
+2024-08-03 14:36:12,174 - train - INFO - train loss: 5821.482553
+2024-08-03 14:36:12,175 - train - INFO - train loss kl: -25.912970
+2024-08-03 14:36:12,175 - train - INFO - train loss reconstruction: 5821.482553
+2024-08-03 14:36:14,771 - train - INFO - epoch: 570
+2024-08-03 14:36:15,078 - train - INFO - train loss: 5842.029222
+2024-08-03 14:36:15,079 - train - INFO - train loss kl: -25.616948
+2024-08-03 14:36:15,079 - train - INFO - train loss reconstruction: 5842.029222
+2024-08-03 14:36:17,659 - train - INFO - epoch: 580
+2024-08-03 14:36:17,954 - train - INFO - train loss: 5822.403471
+2024-08-03 14:36:17,954 - train - INFO - train loss kl: -25.707463
+2024-08-03 14:36:17,954 - train - INFO - train loss reconstruction: 5822.403471
+2024-08-03 14:36:20,561 - train - INFO - epoch: 590
+2024-08-03 14:36:20,976 - train - INFO - train loss: 5794.921725
+2024-08-03 14:36:20,977 - train - INFO - train loss kl: -25.823927
+2024-08-03 14:36:20,977 - train - INFO - train loss reconstruction: 5794.921725
+2024-08-03 14:36:23,587 - train - INFO - epoch: 600
+2024-08-03 14:36:23,886 - train - INFO - train loss: 5798.444561
+2024-08-03 14:36:23,887 - train - INFO - train loss kl: -26.154783
+2024-08-03 14:36:23,887 - train - INFO - train loss reconstruction: 5798.444561
+2024-08-03 14:36:24,278 - train - INFO - valid loss: 6238.410889
+2024-08-03 14:36:24,280 - train - INFO - valid accuracy: nan
+2024-08-03 14:36:26,872 - train - INFO - epoch: 610
+2024-08-03 14:36:27,180 - train - INFO - train loss: 5788.013691
+2024-08-03 14:36:27,180 - train - INFO - train loss kl: -26.155545
+2024-08-03 14:36:27,180 - train - INFO - train loss reconstruction: 5788.013691
+2024-08-03 14:36:29,824 - train - INFO - epoch: 620
+2024-08-03 14:36:30,121 - train - INFO - train loss: 5825.448336
+2024-08-03 14:36:30,121 - train - INFO - train loss kl: -26.290495
+2024-08-03 14:36:30,121 - train - INFO - train loss reconstruction: 5825.448336
+2024-08-03 14:36:32,745 - train - INFO - epoch: 630
+2024-08-03 14:36:33,039 - train - INFO - train loss: 5777.197021
+2024-08-03 14:36:33,039 - train - INFO - train loss kl: -26.538101
+2024-08-03 14:36:33,039 - train - INFO - train loss reconstruction: 5777.197021
+2024-08-03 14:36:35,651 - train - INFO - epoch: 640
+2024-08-03 14:36:35,936 - train - INFO - train loss: 5781.124681
+2024-08-03 14:36:35,937 - train - INFO - train loss kl: -26.875755
+2024-08-03 14:36:35,937 - train - INFO - train loss reconstruction: 5781.124681
+2024-08-03 14:36:38,536 - train - INFO - epoch: 650
+2024-08-03 14:36:38,818 - train - INFO - train loss: 5776.805364
+2024-08-03 14:36:38,819 - train - INFO - train loss kl: -26.762034
+2024-08-03 14:36:38,819 - train - INFO - train loss reconstruction: 5776.805364
+2024-08-03 14:36:41,387 - train - INFO - epoch: 660
+2024-08-03 14:36:41,668 - train - INFO - train loss: 5678.703050
+2024-08-03 14:36:41,669 - train - INFO - train loss kl: -27.634805
+2024-08-03 14:36:41,669 - train - INFO - train loss reconstruction: 5678.703050
+2024-08-03 14:36:44,262 - train - INFO - epoch: 670
+2024-08-03 14:36:44,570 - train - INFO - train loss: 5747.890663
+2024-08-03 14:36:44,570 - train - INFO - train loss kl: -27.496647
+2024-08-03 14:36:44,570 - train - INFO - train loss reconstruction: 5747.890663
+2024-08-03 14:36:47,171 - train - INFO - epoch: 680
+2024-08-03 14:36:47,445 - train - INFO - train loss: 5786.438646
+2024-08-03 14:36:47,445 - train - INFO - train loss kl: -27.337327
+2024-08-03 14:36:47,445 - train - INFO - train loss reconstruction: 5786.438646
+2024-08-03 14:36:50,016 - train - INFO - epoch: 690
+2024-08-03 14:36:50,304 - train - INFO - train loss: 5774.911490
+2024-08-03 14:36:50,304 - train - INFO - train loss kl: -28.202011
+2024-08-03 14:36:50,304 - train - INFO - train loss reconstruction: 5774.911490
+2024-08-03 14:36:52,864 - train - INFO - epoch: 700
+2024-08-03 14:36:53,152 - train - INFO - train loss: 5716.068134
+2024-08-03 14:36:53,153 - train - INFO - train loss kl: -28.845765
+2024-08-03 14:36:53,153 - train - INFO - train loss reconstruction: 5716.068134
+2024-08-03 14:36:53,552 - train - INFO - valid loss: 6340.839600
+2024-08-03 14:36:53,553 - train - INFO - valid accuracy: nan
+2024-08-03 14:36:56,264 - train - INFO - epoch: 710
+2024-08-03 14:36:56,544 - train - INFO - train loss: 5787.001164
+2024-08-03 14:36:56,544 - train - INFO - train loss kl: -29.038572
+2024-08-03 14:36:56,544 - train - INFO - train loss reconstruction: 5787.001164
+2024-08-03 14:36:59,109 - train - INFO - epoch: 720
+2024-08-03 14:36:59,394 - train - INFO - train loss: 5734.339731
+2024-08-03 14:36:59,394 - train - INFO - train loss kl: -29.017161
+2024-08-03 14:36:59,394 - train - INFO - train loss reconstruction: 5734.339731
+2024-08-03 14:37:01,964 - train - INFO - epoch: 730
+2024-08-03 14:37:02,251 - train - INFO - train loss: 5750.642484
+2024-08-03 14:37:02,252 - train - INFO - train loss kl: -29.436847
+2024-08-03 14:37:02,252 - train - INFO - train loss reconstruction: 5750.642484
+2024-08-03 14:37:05,012 - train - INFO - epoch: 740
+2024-08-03 14:37:05,305 - train - INFO - train loss: 5735.785607
+2024-08-03 14:37:05,305 - train - INFO - train loss kl: -30.202535
+2024-08-03 14:37:05,305 - train - INFO - train loss reconstruction: 5735.785607
+2024-08-03 14:37:07,693 - train - INFO - epoch: 750
+2024-08-03 14:37:07,944 - train - INFO - train loss: 5723.956656
+2024-08-03 14:37:07,944 - train - INFO - train loss kl: -29.453970
+2024-08-03 14:37:07,945 - train - INFO - train loss reconstruction: 5723.956656
+2024-08-03 14:37:10,254 - train - INFO - epoch: 760
+2024-08-03 14:37:10,625 - train - INFO - train loss: 5749.759672
+2024-08-03 14:37:10,625 - train - INFO - train loss kl: -29.583044
+2024-08-03 14:37:10,625 - train - INFO - train loss reconstruction: 5749.759672
+2024-08-03 14:37:12,946 - train - INFO - epoch: 770
+2024-08-03 14:37:13,201 - train - INFO - train loss: 5711.076491
+2024-08-03 14:37:13,202 - train - INFO - train loss kl: -29.412548
+2024-08-03 14:37:13,202 - train - INFO - train loss reconstruction: 5711.076491
+2024-08-03 14:37:15,475 - train - INFO - epoch: 780
+2024-08-03 14:37:15,722 - train - INFO - train loss: 5711.418044
+2024-08-03 14:37:15,722 - train - INFO - train loss kl: -30.107449
+2024-08-03 14:37:15,722 - train - INFO - train loss reconstruction: 5711.418044
+2024-08-03 14:37:18,028 - train - INFO - epoch: 790
+2024-08-03 14:37:18,308 - train - INFO - train loss: 5772.619648
+2024-08-03 14:37:18,308 - train - INFO - train loss kl: -29.857267
+2024-08-03 14:37:18,308 - train - INFO - train loss reconstruction: 5772.619648
+2024-08-03 14:37:20,595 - train - INFO - epoch: 800
+2024-08-03 14:37:20,851 - train - INFO - train loss: 5648.549241
+2024-08-03 14:37:20,851 - train - INFO - train loss kl: -29.518943
+2024-08-03 14:37:20,852 - train - INFO - train loss reconstruction: 5648.549241
+2024-08-03 14:37:21,195 - train - INFO - valid loss: 6411.858154
+2024-08-03 14:37:21,196 - train - INFO - valid accuracy: nan
+2024-08-03 14:37:23,535 - train - INFO - epoch: 810
+2024-08-03 14:37:23,789 - train - INFO - train loss: 5750.937124
+2024-08-03 14:37:23,789 - train - INFO - train loss kl: -29.845003
+2024-08-03 14:37:23,789 - train - INFO - train loss reconstruction: 5750.937124
+2024-08-03 14:37:26,210 - train - INFO - epoch: 820
+2024-08-03 14:37:26,463 - train - INFO - train loss: 5727.318773
+2024-08-03 14:37:26,463 - train - INFO - train loss kl: -29.718562
+2024-08-03 14:37:26,463 - train - INFO - train loss reconstruction: 5727.318773
+2024-08-03 14:37:28,874 - train - INFO - epoch: 830
+2024-08-03 14:37:29,129 - train - INFO - train loss: 5732.533128
+2024-08-03 14:37:29,129 - train - INFO - train loss kl: -29.433413
+2024-08-03 14:37:29,129 - train - INFO - train loss reconstruction: 5732.533128
+2024-08-03 14:37:31,447 - train - INFO - epoch: 840
+2024-08-03 14:37:31,721 - train - INFO - train loss: 5762.083158
+2024-08-03 14:37:31,721 - train - INFO - train loss kl: -28.958480
+2024-08-03 14:37:31,721 - train - INFO - train loss reconstruction: 5762.083158
+2024-08-03 14:37:34,036 - train - INFO - epoch: 850
+2024-08-03 14:37:34,305 - train - INFO - train loss: 5676.902306
+2024-08-03 14:37:34,305 - train - INFO - train loss kl: -29.383005
+2024-08-03 14:37:34,305 - train - INFO - train loss reconstruction: 5676.902306
+2024-08-03 14:37:36,639 - train - INFO - epoch: 860
+2024-08-03 14:37:36,894 - train - INFO - train loss: 5691.344896
+2024-08-03 14:37:36,894 - train - INFO - train loss kl: -29.239049
+2024-08-03 14:37:36,894 - train - INFO - train loss reconstruction: 5691.344896
+2024-08-03 14:37:39,336 - train - INFO - epoch: 870
+2024-08-03 14:37:39,583 - train - INFO - train loss: 5679.812688
+2024-08-03 14:37:39,583 - train - INFO - train loss kl: -29.761501
+2024-08-03 14:37:39,583 - train - INFO - train loss reconstruction: 5679.812688
+2024-08-03 14:37:41,879 - train - INFO - epoch: 880
+2024-08-03 14:37:42,120 - train - INFO - train loss: 5686.013184
+2024-08-03 14:37:42,121 - train - INFO - train loss kl: -30.418724
+2024-08-03 14:37:42,121 - train - INFO - train loss reconstruction: 5686.013184
+2024-08-03 14:37:44,452 - train - INFO - epoch: 890
+2024-08-03 14:37:44,700 - train - INFO - train loss: 5663.914814
+2024-08-03 14:37:44,700 - train - INFO - train loss kl: -30.229701
+2024-08-03 14:37:44,700 - train - INFO - train loss reconstruction: 5663.914814
+2024-08-03 14:37:47,024 - train - INFO - epoch: 900
+2024-08-03 14:37:47,293 - train - INFO - train loss: 5617.633207
+2024-08-03 14:37:47,293 - train - INFO - train loss kl: -30.217283
+2024-08-03 14:37:47,293 - train - INFO - train loss reconstruction: 5617.633207
+2024-08-03 14:37:47,689 - train - INFO - valid loss: 6429.577393
+2024-08-03 14:37:47,690 - train - INFO - valid accuracy: nan
+2024-08-03 14:37:50,003 - train - INFO - epoch: 910
+2024-08-03 14:37:50,256 - train - INFO - train loss: 5711.132287
+2024-08-03 14:37:50,256 - train - INFO - train loss kl: -29.790724
+2024-08-03 14:37:50,256 - train - INFO - train loss reconstruction: 5711.132287
+2024-08-03 14:37:52,556 - train - INFO - epoch: 920
+2024-08-03 14:37:52,819 - train - INFO - train loss: 5651.610032
+2024-08-03 14:37:52,819 - train - INFO - train loss kl: -30.317602
+2024-08-03 14:37:52,819 - train - INFO - train loss reconstruction: 5651.610032
+2024-08-03 14:37:55,189 - train - INFO - epoch: 930
+2024-08-03 14:37:55,443 - train - INFO - train loss: 5637.553786
+2024-08-03 14:37:55,443 - train - INFO - train loss kl: -31.521470
+2024-08-03 14:37:55,444 - train - INFO - train loss reconstruction: 5637.553786
+2024-08-03 14:37:57,770 - train - INFO - epoch: 940
+2024-08-03 14:37:58,015 - train - INFO - train loss: 5691.756573
+2024-08-03 14:37:58,015 - train - INFO - train loss kl: -31.723987
+2024-08-03 14:37:58,015 - train - INFO - train loss reconstruction: 5691.756573
+2024-08-03 14:38:00,342 - train - INFO - epoch: 950
+2024-08-03 14:38:00,595 - train - INFO - train loss: 5708.248854
+2024-08-03 14:38:00,595 - train - INFO - train loss kl: -30.839792
+2024-08-03 14:38:00,595 - train - INFO - train loss reconstruction: 5708.248854
+2024-08-03 14:38:02,893 - train - INFO - epoch: 960
+2024-08-03 14:38:03,171 - train - INFO - train loss: 5633.805739
+2024-08-03 14:38:03,171 - train - INFO - train loss kl: -30.134911
+2024-08-03 14:38:03,171 - train - INFO - train loss reconstruction: 5633.805739
+2024-08-03 14:38:05,469 - train - INFO - epoch: 970
+2024-08-03 14:38:05,740 - train - INFO - train loss: 5642.024790
+2024-08-03 14:38:05,740 - train - INFO - train loss kl: -30.680847
+2024-08-03 14:38:05,740 - train - INFO - train loss reconstruction: 5642.024790
+2024-08-03 14:38:08,196 - train - INFO - epoch: 980
+2024-08-03 14:38:08,447 - train - INFO - train loss: 5650.984018
+2024-08-03 14:38:08,447 - train - INFO - train loss kl: -30.627781
+2024-08-03 14:38:08,447 - train - INFO - train loss reconstruction: 5650.984018
+2024-08-03 14:38:10,736 - train - INFO - epoch: 990
+2024-08-03 14:38:10,993 - train - INFO - train loss: 5633.293344
+2024-08-03 14:38:10,993 - train - INFO - train loss kl: -31.289453
+2024-08-03 14:38:10,993 - train - INFO - train loss reconstruction: 5633.293344
+2024-08-03 14:38:13,299 - train - INFO - epoch: 1000
+2024-08-03 14:38:13,557 - train - INFO - train loss: 5647.914344
+2024-08-03 14:38:13,558 - train - INFO - train loss kl: -31.187881
+2024-08-03 14:38:13,558 - train - INFO - train loss reconstruction: 5647.914344
+2024-08-03 14:38:13,860 - train - INFO - valid loss: 6545.829102
+2024-08-03 14:38:13,862 - train - INFO - valid accuracy: nan
+2024-08-03 14:38:16,212 - train - INFO - epoch: 1010
+2024-08-03 14:38:16,491 - train - INFO - train loss: 5612.908598
+2024-08-03 14:38:16,491 - train - INFO - train loss kl: -31.709697
+2024-08-03 14:38:16,491 - train - INFO - train loss reconstruction: 5612.908598
+2024-08-03 14:38:18,803 - train - INFO - epoch: 1020
+2024-08-03 14:38:19,065 - train - INFO - train loss: 5670.213022
+2024-08-03 14:38:19,066 - train - INFO - train loss kl: -31.546891
+2024-08-03 14:38:19,066 - train - INFO - train loss reconstruction: 5670.213022
+2024-08-03 14:38:21,350 - train - INFO - epoch: 1030
+2024-08-03 14:38:21,603 - train - INFO - train loss: 5805.860089
+2024-08-03 14:38:21,603 - train - INFO - train loss kl: -31.303766
+2024-08-03 14:38:21,603 - train - INFO - train loss reconstruction: 5805.860089
+2024-08-03 14:38:23,917 - train - INFO - epoch: 1040
+2024-08-03 14:38:24,166 - train - INFO - train loss: 5593.088792
+2024-08-03 14:38:24,166 - train - INFO - train loss kl: -31.960160
+2024-08-03 14:38:24,166 - train - INFO - train loss reconstruction: 5593.088792
+2024-08-03 14:38:26,463 - train - INFO - epoch: 1050
+2024-08-03 14:38:26,717 - train - INFO - train loss: 5626.056547
+2024-08-03 14:38:26,718 - train - INFO - train loss kl: -32.286384
+2024-08-03 14:38:26,718 - train - INFO - train loss reconstruction: 5626.056547
+2024-08-03 14:38:29,037 - train - INFO - epoch: 1060
+2024-08-03 14:38:29,286 - train - INFO - train loss: 5679.432767
+2024-08-03 14:38:29,286 - train - INFO - train loss kl: -31.717229
+2024-08-03 14:38:29,286 - train - INFO - train loss reconstruction: 5679.432767
+2024-08-03 14:38:31,614 - train - INFO - epoch: 1070
+2024-08-03 14:38:31,866 - train - INFO - train loss: 5603.874568
+2024-08-03 14:38:31,866 - train - INFO - train loss kl: -32.826047
+2024-08-03 14:38:31,867 - train - INFO - train loss reconstruction: 5603.874568
+2024-08-03 14:38:34,174 - train - INFO - epoch: 1080
+2024-08-03 14:38:34,455 - train - INFO - train loss: 5619.979830
+2024-08-03 14:38:34,455 - train - INFO - train loss kl: -33.122173
+2024-08-03 14:38:34,455 - train - INFO - train loss reconstruction: 5619.979830
+2024-08-03 14:38:36,756 - train - INFO - epoch: 1090
+2024-08-03 14:38:37,017 - train - INFO - train loss: 5609.225342
+2024-08-03 14:38:37,017 - train - INFO - train loss kl: -33.083453
+2024-08-03 14:38:37,017 - train - INFO - train loss reconstruction: 5609.225342
+2024-08-03 14:38:39,307 - train - INFO - epoch: 1100
+2024-08-03 14:38:39,569 - train - INFO - train loss: 5583.470177
+2024-08-03 14:38:39,569 - train - INFO - train loss kl: -32.931078
+2024-08-03 14:38:39,569 - train - INFO - train loss reconstruction: 5583.470177
+2024-08-03 14:38:39,901 - train - INFO - valid loss: 6731.176514
+2024-08-03 14:38:39,903 - train - INFO - valid accuracy: nan
+2024-08-03 14:38:42,225 - train - INFO - epoch: 1110
+2024-08-03 14:38:42,475 - train - INFO - train loss: 5682.382531
+2024-08-03 14:38:42,475 - train - INFO - train loss kl: -33.040928
+2024-08-03 14:38:42,475 - train - INFO - train loss reconstruction: 5682.382531
+2024-08-03 14:38:44,776 - train - INFO - epoch: 1120
+2024-08-03 14:38:45,026 - train - INFO - train loss: 5633.542067
+2024-08-03 14:38:45,027 - train - INFO - train loss kl: -32.292113
+2024-08-03 14:38:45,027 - train - INFO - train loss reconstruction: 5633.542067
+2024-08-03 14:38:47,335 - train - INFO - epoch: 1130
+2024-08-03 14:38:47,590 - train - INFO - train loss: 5671.297006
+2024-08-03 14:38:47,590 - train - INFO - train loss kl: -33.098370
+2024-08-03 14:38:47,590 - train - INFO - train loss reconstruction: 5671.297006
+2024-08-03 14:38:50,064 - train - INFO - epoch: 1140
+2024-08-03 14:38:50,321 - train - INFO - train loss: 5616.449557
+2024-08-03 14:38:50,321 - train - INFO - train loss kl: -33.255481
+2024-08-03 14:38:50,321 - train - INFO - train loss reconstruction: 5616.449557
+2024-08-03 14:38:52,631 - train - INFO - epoch: 1150
+2024-08-03 14:38:52,880 - train - INFO - train loss: 5644.356032
+2024-08-03 14:38:52,880 - train - INFO - train loss kl: -32.552016
+2024-08-03 14:38:52,880 - train - INFO - train loss reconstruction: 5644.356032
+2024-08-03 14:38:55,248 - train - INFO - epoch: 1160
+2024-08-03 14:38:55,494 - train - INFO - train loss: 5620.122897
+2024-08-03 14:38:55,494 - train - INFO - train loss kl: -32.772999
+2024-08-03 14:38:55,494 - train - INFO - train loss reconstruction: 5620.122897
+2024-08-03 14:38:57,798 - train - INFO - epoch: 1170
+2024-08-03 14:38:58,053 - train - INFO - train loss: 5601.171518
+2024-08-03 14:38:58,053 - train - INFO - train loss kl: -32.799039
+2024-08-03 14:38:58,053 - train - INFO - train loss reconstruction: 5601.171518
+2024-08-03 14:39:00,394 - train - INFO - epoch: 1180
+2024-08-03 14:39:00,697 - train - INFO - train loss: 5620.646860
+2024-08-03 14:39:00,697 - train - INFO - train loss kl: -32.444955
+2024-08-03 14:39:00,697 - train - INFO - train loss reconstruction: 5620.646860
+2024-08-03 14:39:02,993 - train - INFO - epoch: 1190
+2024-08-03 14:39:03,252 - train - INFO - train loss: 5577.002779
+2024-08-03 14:39:03,252 - train - INFO - train loss kl: -33.177291
+2024-08-03 14:39:03,252 - train - INFO - train loss reconstruction: 5577.002779
+2024-08-03 14:39:05,591 - train - INFO - epoch: 1200
+2024-08-03 14:39:05,890 - train - INFO - train loss: 5589.781325
+2024-08-03 14:39:05,890 - train - INFO - train loss kl: -33.124110
+2024-08-03 14:39:05,890 - train - INFO - train loss reconstruction: 5589.781325
+2024-08-03 14:39:06,216 - train - INFO - valid loss: 6561.570801
+2024-08-03 14:39:06,217 - train - INFO - valid accuracy: nan
+2024-08-03 14:39:08,565 - train - INFO - epoch: 1210
+2024-08-03 14:39:08,813 - train - INFO - train loss: 5571.388334
+2024-08-03 14:39:08,813 - train - INFO - train loss kl: -32.615283
+2024-08-03 14:39:08,813 - train - INFO - train loss reconstruction: 5571.388334
+2024-08-03 14:39:11,113 - train - INFO - epoch: 1220
+2024-08-03 14:39:11,379 - train - INFO - train loss: 5612.804293
+2024-08-03 14:39:11,379 - train - INFO - train loss kl: -33.066940
+2024-08-03 14:39:11,379 - train - INFO - train loss reconstruction: 5612.804293
+2024-08-03 14:39:13,692 - train - INFO - epoch: 1230
+2024-08-03 14:39:13,952 - train - INFO - train loss: 5619.551683
+2024-08-03 14:39:13,952 - train - INFO - train loss kl: -33.141364
+2024-08-03 14:39:13,952 - train - INFO - train loss reconstruction: 5619.551683
+2024-08-03 14:39:16,265 - train - INFO - epoch: 1240
+2024-08-03 14:39:16,525 - train - INFO - train loss: 5627.778508
+2024-08-03 14:39:16,525 - train - INFO - train loss kl: -33.419845
+2024-08-03 14:39:16,525 - train - INFO - train loss reconstruction: 5627.778508
+2024-08-03 14:39:18,841 - train - INFO - epoch: 1250
+2024-08-03 14:39:19,128 - train - INFO - train loss: 5566.191932
+2024-08-03 14:39:19,128 - train - INFO - train loss kl: -33.468050
+2024-08-03 14:39:19,128 - train - INFO - train loss reconstruction: 5566.191932
+2024-08-03 14:39:21,576 - train - INFO - epoch: 1260
+2024-08-03 14:39:21,840 - train - INFO - train loss: 5640.731258
+2024-08-03 14:39:21,840 - train - INFO - train loss kl: -32.825968
+2024-08-03 14:39:21,840 - train - INFO - train loss reconstruction: 5640.731258
+2024-08-03 14:39:24,165 - train - INFO - epoch: 1270
+2024-08-03 14:39:24,522 - train - INFO - train loss: 5637.249793
+2024-08-03 14:39:24,523 - train - INFO - train loss kl: -33.388565
+2024-08-03 14:39:24,523 - train - INFO - train loss reconstruction: 5637.249793
+2024-08-03 14:39:27,203 - train - INFO - epoch: 1280
+2024-08-03 14:39:27,479 - train - INFO - train loss: 5618.584698
+2024-08-03 14:39:27,479 - train - INFO - train loss kl: -33.997606
+2024-08-03 14:39:27,479 - train - INFO - train loss reconstruction: 5618.584698
+2024-08-03 14:39:29,803 - train - INFO - epoch: 1290
+2024-08-03 14:39:30,063 - train - INFO - train loss: 5516.147442
+2024-08-03 14:39:30,063 - train - INFO - train loss kl: -32.579178
+2024-08-03 14:39:30,063 - train - INFO - train loss reconstruction: 5516.147442
+2024-08-03 14:39:32,891 - train - INFO - epoch: 1300
+2024-08-03 14:39:33,407 - train - INFO - train loss: 5670.243652
+2024-08-03 14:39:33,407 - train - INFO - train loss kl: -33.548385
+2024-08-03 14:39:33,407 - train - INFO - train loss reconstruction: 5670.243652
+2024-08-03 14:39:33,915 - train - INFO - valid loss: 6787.930420
+2024-08-03 14:39:33,916 - train - INFO - valid accuracy: nan
+2024-08-03 14:39:36,320 - train - INFO - epoch: 1310
+2024-08-03 14:39:36,579 - train - INFO - train loss: 5579.215388
+2024-08-03 14:39:36,579 - train - INFO - train loss kl: -33.697236
+2024-08-03 14:39:36,580 - train - INFO - train loss reconstruction: 5579.215388
+2024-08-03 14:39:38,948 - train - INFO - epoch: 1320
+2024-08-03 14:39:39,201 - train - INFO - train loss: 5704.894362
+2024-08-03 14:39:39,202 - train - INFO - train loss kl: -34.090606
+2024-08-03 14:39:39,202 - train - INFO - train loss reconstruction: 5704.894362
+2024-08-03 14:39:41,551 - train - INFO - epoch: 1330
+2024-08-03 14:39:41,836 - train - INFO - train loss: 5642.568604
+2024-08-03 14:39:41,836 - train - INFO - train loss kl: -33.501179
+2024-08-03 14:39:41,837 - train - INFO - train loss reconstruction: 5642.568604
+2024-08-03 14:39:44,334 - train - INFO - epoch: 1340
+2024-08-03 14:39:44,597 - train - INFO - train loss: 5619.896315
+2024-08-03 14:39:44,598 - train - INFO - train loss kl: -34.020981
+2024-08-03 14:39:44,598 - train - INFO - train loss reconstruction: 5619.896315
+2024-08-03 14:39:47,073 - train - INFO - epoch: 1350
+2024-08-03 14:39:47,330 - train - INFO - train loss: 5607.412241
+2024-08-03 14:39:47,330 - train - INFO - train loss kl: -33.928572
+2024-08-03 14:39:47,330 - train - INFO - train loss reconstruction: 5607.412241
+2024-08-03 14:39:49,638 - train - INFO - epoch: 1360
+2024-08-03 14:39:49,888 - train - INFO - train loss: 5569.887939
+2024-08-03 14:39:49,888 - train - INFO - train loss kl: -34.222859
+2024-08-03 14:39:49,888 - train - INFO - train loss reconstruction: 5569.887939
+2024-08-03 14:39:52,256 - train - INFO - epoch: 1370
+2024-08-03 14:39:52,523 - train - INFO - train loss: 5625.836351
+2024-08-03 14:39:52,523 - train - INFO - train loss kl: -34.789743
+2024-08-03 14:39:52,523 - train - INFO - train loss reconstruction: 5625.836351
+2024-08-03 14:39:55,061 - train - INFO - epoch: 1380
+2024-08-03 14:39:55,347 - train - INFO - train loss: 5579.633489
+2024-08-03 14:39:55,347 - train - INFO - train loss kl: -34.640462
+2024-08-03 14:39:55,347 - train - INFO - train loss reconstruction: 5579.633489
+2024-08-03 14:39:57,819 - train - INFO - epoch: 1390
+2024-08-03 14:39:58,133 - train - INFO - train loss: 5655.277982
+2024-08-03 14:39:58,133 - train - INFO - train loss kl: -33.828974
+2024-08-03 14:39:58,134 - train - INFO - train loss reconstruction: 5655.277982
+2024-08-03 14:40:00,518 - train - INFO - epoch: 1400
+2024-08-03 14:40:00,781 - train - INFO - train loss: 5534.643066
+2024-08-03 14:40:00,781 - train - INFO - train loss kl: -34.636147
+2024-08-03 14:40:00,782 - train - INFO - train loss reconstruction: 5534.643066
+2024-08-03 14:40:01,235 - train - INFO - valid loss: 6705.420654
+2024-08-03 14:40:01,236 - train - INFO - valid accuracy: nan
+2024-08-03 14:40:03,603 - train - INFO - epoch: 1410
+2024-08-03 14:40:03,850 - train - INFO - train loss: 5592.836970
+2024-08-03 14:40:03,850 - train - INFO - train loss kl: -34.197469
+2024-08-03 14:40:03,850 - train - INFO - train loss reconstruction: 5592.836970
+2024-08-03 14:40:06,173 - train - INFO - epoch: 1420
+2024-08-03 14:40:06,454 - train - INFO - train loss: 5538.434495
+2024-08-03 14:40:06,454 - train - INFO - train loss kl: -35.423865
+2024-08-03 14:40:06,454 - train - INFO - train loss reconstruction: 5538.434495
+2024-08-03 14:40:08,791 - train - INFO - epoch: 1430
+2024-08-03 14:40:09,051 - train - INFO - train loss: 5560.192646
+2024-08-03 14:40:09,051 - train - INFO - train loss kl: -35.743365
+2024-08-03 14:40:09,051 - train - INFO - train loss reconstruction: 5560.192646
+2024-08-03 14:40:11,526 - train - INFO - epoch: 1440
+2024-08-03 14:40:11,776 - train - INFO - train loss: 5583.713661
+2024-08-03 14:40:11,776 - train - INFO - train loss kl: -35.553985
+2024-08-03 14:40:11,776 - train - INFO - train loss reconstruction: 5583.713661
+2024-08-03 14:40:14,070 - train - INFO - epoch: 1450
+2024-08-03 14:40:14,318 - train - INFO - train loss: 5567.984619
+2024-08-03 14:40:14,319 - train - INFO - train loss kl: -35.724659
+2024-08-03 14:40:14,319 - train - INFO - train loss reconstruction: 5567.984619
+2024-08-03 14:40:16,657 - train - INFO - epoch: 1460
+2024-08-03 14:40:16,916 - train - INFO - train loss: 5544.625770
+2024-08-03 14:40:16,916 - train - INFO - train loss kl: -35.329728
+2024-08-03 14:40:16,916 - train - INFO - train loss reconstruction: 5544.625770
+2024-08-03 14:40:19,314 - train - INFO - epoch: 1470
+2024-08-03 14:40:19,567 - train - INFO - train loss: 5564.635761
+2024-08-03 14:40:19,568 - train - INFO - train loss kl: -34.961641
+2024-08-03 14:40:19,568 - train - INFO - train loss reconstruction: 5564.635761
+2024-08-03 14:40:21,942 - train - INFO - epoch: 1480
+2024-08-03 14:40:22,227 - train - INFO - train loss: 5610.955529
+2024-08-03 14:40:22,227 - train - INFO - train loss kl: -35.667093
+2024-08-03 14:40:22,227 - train - INFO - train loss reconstruction: 5610.955529
+2024-08-03 14:40:24,548 - train - INFO - epoch: 1490
+2024-08-03 14:40:24,801 - train - INFO - train loss: 5528.025203
+2024-08-03 14:40:24,801 - train - INFO - train loss kl: -35.463842
+2024-08-03 14:40:24,801 - train - INFO - train loss reconstruction: 5528.025203
+2024-08-03 14:40:27,096 - train - INFO - epoch: 1500
+2024-08-03 14:40:27,371 - train - INFO - train loss: 5562.589600
+2024-08-03 14:40:27,371 - train - INFO - train loss kl: -34.912650
+2024-08-03 14:40:27,371 - train - INFO - train loss reconstruction: 5562.589600
+2024-08-03 14:40:27,694 - train - INFO - valid loss: 6850.196045
+2024-08-03 14:40:27,695 - train - INFO - valid accuracy: nan
+2024-08-03 14:40:30,097 - train - INFO - epoch: 1510
+2024-08-03 14:40:30,357 - train - INFO - train loss: 5549.530086
+2024-08-03 14:40:30,357 - train - INFO - train loss kl: -35.314337
+2024-08-03 14:40:30,358 - train - INFO - train loss reconstruction: 5549.530086
+2024-08-03 14:40:32,670 - train - INFO - epoch: 1520
+2024-08-03 14:40:32,918 - train - INFO - train loss: 5531.386719
+2024-08-03 14:40:32,919 - train - INFO - train loss kl: -36.622462
+2024-08-03 14:40:32,919 - train - INFO - train loss reconstruction: 5531.386719
+2024-08-03 14:40:35,252 - train - INFO - epoch: 1530
+2024-08-03 14:40:35,526 - train - INFO - train loss: 5600.377479
+2024-08-03 14:40:35,526 - train - INFO - train loss kl: -35.821441
+2024-08-03 14:40:35,526 - train - INFO - train loss reconstruction: 5600.377479
+2024-08-03 14:40:37,831 - train - INFO - epoch: 1540
+2024-08-03 14:40:38,102 - train - INFO - train loss: 5535.365366
+2024-08-03 14:40:38,102 - train - INFO - train loss kl: -35.716252
+2024-08-03 14:40:38,102 - train - INFO - train loss reconstruction: 5535.365366
+2024-08-03 14:40:40,425 - train - INFO - epoch: 1550
+2024-08-03 14:40:40,676 - train - INFO - train loss: 5587.314904
+2024-08-03 14:40:40,676 - train - INFO - train loss kl: -36.548556
+2024-08-03 14:40:40,676 - train - INFO - train loss reconstruction: 5587.314904
+2024-08-03 14:40:42,972 - train - INFO - epoch: 1560
+2024-08-03 14:40:43,226 - train - INFO - train loss: 5616.234300
+2024-08-03 14:40:43,227 - train - INFO - train loss kl: -36.188047
+2024-08-03 14:40:43,227 - train - INFO - train loss reconstruction: 5616.234300
+2024-08-03 14:40:45,556 - train - INFO - epoch: 1570
+2024-08-03 14:40:45,808 - train - INFO - train loss: 5521.240159
+2024-08-03 14:40:45,808 - train - INFO - train loss kl: -35.386080
+2024-08-03 14:40:45,808 - train - INFO - train loss reconstruction: 5521.240159
+2024-08-03 14:40:48,129 - train - INFO - epoch: 1580
+2024-08-03 14:40:48,376 - train - INFO - train loss: 5558.759409
+2024-08-03 14:40:48,376 - train - INFO - train loss kl: -35.826621
+2024-08-03 14:40:48,376 - train - INFO - train loss reconstruction: 5558.759409
+2024-08-03 14:40:50,762 - train - INFO - epoch: 1590
+2024-08-03 14:40:51,049 - train - INFO - train loss: 5505.968450
+2024-08-03 14:40:51,050 - train - INFO - train loss kl: -35.838760
+2024-08-03 14:40:51,050 - train - INFO - train loss reconstruction: 5505.968450
+2024-08-03 14:40:53,393 - train - INFO - epoch: 1600
+2024-08-03 14:40:53,887 - train - INFO - train loss: 5505.456318
+2024-08-03 14:40:53,887 - train - INFO - train loss kl: -36.011453
+2024-08-03 14:40:53,888 - train - INFO - train loss reconstruction: 5505.456318
+2024-08-03 14:40:54,222 - train - INFO - valid loss: 6903.243652
+2024-08-03 14:40:54,223 - train - INFO - valid accuracy: nan
+2024-08-03 14:40:56,600 - train - INFO - epoch: 1610
+2024-08-03 14:40:56,857 - train - INFO - train loss: 5600.758864
+2024-08-03 14:40:56,857 - train - INFO - train loss kl: -35.877604
+2024-08-03 14:40:56,857 - train - INFO - train loss reconstruction: 5600.758864
+2024-08-03 14:40:59,194 - train - INFO - epoch: 1620
+2024-08-03 14:40:59,456 - train - INFO - train loss: 5630.678448
+2024-08-03 14:40:59,456 - train - INFO - train loss kl: -35.832635
+2024-08-03 14:40:59,456 - train - INFO - train loss reconstruction: 5630.678448
+2024-08-03 14:41:01,775 - train - INFO - epoch: 1630
+2024-08-03 14:41:02,035 - train - INFO - train loss: 5568.399132
+2024-08-03 14:41:02,035 - train - INFO - train loss kl: -35.874861
+2024-08-03 14:41:02,036 - train - INFO - train loss reconstruction: 5568.399132
+2024-08-03 14:41:04,339 - train - INFO - epoch: 1640
+2024-08-03 14:41:04,623 - train - INFO - train loss: 5496.715633
+2024-08-03 14:41:04,623 - train - INFO - train loss kl: -36.049240
+2024-08-03 14:41:04,623 - train - INFO - train loss reconstruction: 5496.715633
+2024-08-03 14:41:06,945 - train - INFO - epoch: 1650
+2024-08-03 14:41:07,207 - train - INFO - train loss: 5541.078219
+2024-08-03 14:41:07,207 - train - INFO - train loss kl: -35.883126
+2024-08-03 14:41:07,207 - train - INFO - train loss reconstruction: 5541.078219
+2024-08-03 14:41:09,535 - train - INFO - epoch: 1660
+2024-08-03 14:41:09,793 - train - INFO - train loss: 5693.592642
+2024-08-03 14:41:09,793 - train - INFO - train loss kl: -35.049581
+2024-08-03 14:41:09,793 - train - INFO - train loss reconstruction: 5693.592642
+2024-08-03 14:41:12,098 - train - INFO - epoch: 1670
+2024-08-03 14:41:12,360 - train - INFO - train loss: 5478.092266
+2024-08-03 14:41:12,361 - train - INFO - train loss kl: -35.772743
+2024-08-03 14:41:12,361 - train - INFO - train loss reconstruction: 5478.092266
+2024-08-03 14:41:14,672 - train - INFO - epoch: 1680
+2024-08-03 14:41:14,921 - train - INFO - train loss: 5550.754845
+2024-08-03 14:41:14,921 - train - INFO - train loss kl: -36.016342
+2024-08-03 14:41:14,921 - train - INFO - train loss reconstruction: 5550.754845
+2024-08-03 14:41:17,225 - train - INFO - epoch: 1690
+2024-08-03 14:41:17,477 - train - INFO - train loss: 5480.519325
+2024-08-03 14:41:17,478 - train - INFO - train loss kl: -35.626236
+2024-08-03 14:41:17,478 - train - INFO - train loss reconstruction: 5480.519325
+2024-08-03 14:41:19,829 - train - INFO - epoch: 1700
+2024-08-03 14:41:20,103 - train - INFO - train loss: 5499.929256
+2024-08-03 14:41:20,104 - train - INFO - train loss kl: -36.172980
+2024-08-03 14:41:20,104 - train - INFO - train loss reconstruction: 5499.929256
+2024-08-03 14:41:20,460 - train - INFO - valid loss: 7065.703857
+2024-08-03 14:41:20,461 - train - INFO - valid accuracy: nan
+2024-08-03 14:41:22,810 - train - INFO - epoch: 1710
+2024-08-03 14:41:23,068 - train - INFO - train loss: 5478.170222
+2024-08-03 14:41:23,068 - train - INFO - train loss kl: -35.721572
+2024-08-03 14:41:23,068 - train - INFO - train loss reconstruction: 5478.170222
+2024-08-03 14:41:25,396 - train - INFO - epoch: 1720
+2024-08-03 14:41:25,652 - train - INFO - train loss: 5528.832933
+2024-08-03 14:41:25,652 - train - INFO - train loss kl: -35.583481
+2024-08-03 14:41:25,652 - train - INFO - train loss reconstruction: 5528.832933
+2024-08-03 14:41:27,976 - train - INFO - epoch: 1730
+2024-08-03 14:41:28,230 - train - INFO - train loss: 5514.471642
+2024-08-03 14:41:28,230 - train - INFO - train loss kl: -35.555995
+2024-08-03 14:41:28,230 - train - INFO - train loss reconstruction: 5514.471642
+2024-08-03 14:41:30,574 - train - INFO - epoch: 1740
+2024-08-03 14:41:30,828 - train - INFO - train loss: 5515.113075
+2024-08-03 14:41:30,828 - train - INFO - train loss kl: -36.175607
+2024-08-03 14:41:30,828 - train - INFO - train loss reconstruction: 5515.113075
+2024-08-03 14:41:33,134 - train - INFO - epoch: 1750
+2024-08-03 14:41:33,388 - train - INFO - train loss: 5548.463097
+2024-08-03 14:41:33,388 - train - INFO - train loss kl: -36.341836
+2024-08-03 14:41:33,388 - train - INFO - train loss reconstruction: 5548.463097
+2024-08-03 14:41:35,704 - train - INFO - epoch: 1760
+2024-08-03 14:41:35,986 - train - INFO - train loss: 5540.261024
+2024-08-03 14:41:35,986 - train - INFO - train loss kl: -35.829410
+2024-08-03 14:41:35,987 - train - INFO - train loss reconstruction: 5540.261024
+2024-08-03 14:41:38,310 - train - INFO - epoch: 1770
+2024-08-03 14:41:38,574 - train - INFO - train loss: 5513.956092
+2024-08-03 14:41:38,574 - train - INFO - train loss kl: -36.079057
+2024-08-03 14:41:38,574 - train - INFO - train loss reconstruction: 5513.956092
+2024-08-03 14:41:40,907 - train - INFO - epoch: 1780
+2024-08-03 14:41:41,158 - train - INFO - train loss: 5469.500319
+2024-08-03 14:41:41,158 - train - INFO - train loss kl: -36.409156
+2024-08-03 14:41:41,158 - train - INFO - train loss reconstruction: 5469.500319
+2024-08-03 14:41:43,496 - train - INFO - epoch: 1790
+2024-08-03 14:41:43,760 - train - INFO - train loss: 5461.079609
+2024-08-03 14:41:43,760 - train - INFO - train loss kl: -36.433282
+2024-08-03 14:41:43,760 - train - INFO - train loss reconstruction: 5461.079609
+2024-08-03 14:41:46,219 - train - INFO - epoch: 1800
+2024-08-03 14:41:46,473 - train - INFO - train loss: 5626.372390
+2024-08-03 14:41:46,473 - train - INFO - train loss kl: -36.175716
+2024-08-03 14:41:46,473 - train - INFO - train loss reconstruction: 5626.372390
+2024-08-03 14:41:46,854 - train - INFO - valid loss: 7002.117188
+2024-08-03 14:41:46,856 - train - INFO - valid accuracy: nan
+2024-08-03 14:41:49,233 - train - INFO - epoch: 1810
+2024-08-03 14:41:49,505 - train - INFO - train loss: 5472.103121
+2024-08-03 14:41:49,505 - train - INFO - train loss kl: -36.323342
+2024-08-03 14:41:49,505 - train - INFO - train loss reconstruction: 5472.103121
+2024-08-03 14:41:51,810 - train - INFO - epoch: 1820
+2024-08-03 14:41:52,067 - train - INFO - train loss: 5584.085487
+2024-08-03 14:41:52,068 - train - INFO - train loss kl: -36.429429
+2024-08-03 14:41:52,068 - train - INFO - train loss reconstruction: 5584.085487
+2024-08-03 14:41:54,479 - train - INFO - epoch: 1830
+2024-08-03 14:41:54,739 - train - INFO - train loss: 5482.710956
+2024-08-03 14:41:54,740 - train - INFO - train loss kl: -36.791244
+2024-08-03 14:41:54,740 - train - INFO - train loss reconstruction: 5482.710956
+2024-08-03 14:41:57,106 - train - INFO - epoch: 1840
+2024-08-03 14:41:57,355 - train - INFO - train loss: 5467.740347
+2024-08-03 14:41:57,355 - train - INFO - train loss kl: -36.776191
+2024-08-03 14:41:57,355 - train - INFO - train loss reconstruction: 5467.740347
+2024-08-03 14:41:59,678 - train - INFO - epoch: 1850
+2024-08-03 14:41:59,929 - train - INFO - train loss: 5558.105187
+2024-08-03 14:41:59,929 - train - INFO - train loss kl: -36.674101
+2024-08-03 14:41:59,929 - train - INFO - train loss reconstruction: 5558.105187
+2024-08-03 14:42:02,282 - train - INFO - epoch: 1860
+2024-08-03 14:42:02,543 - train - INFO - train loss: 5531.230431
+2024-08-03 14:42:02,543 - train - INFO - train loss kl: -35.942219
+2024-08-03 14:42:02,543 - train - INFO - train loss reconstruction: 5531.230431
+2024-08-03 14:42:04,893 - train - INFO - epoch: 1870
+2024-08-03 14:42:05,162 - train - INFO - train loss: 5488.777306
+2024-08-03 14:42:05,162 - train - INFO - train loss kl: -36.702584
+2024-08-03 14:42:05,162 - train - INFO - train loss reconstruction: 5488.777306
+2024-08-03 14:42:07,477 - train - INFO - epoch: 1880
+2024-08-03 14:42:07,735 - train - INFO - train loss: 5545.142822
+2024-08-03 14:42:07,735 - train - INFO - train loss kl: -36.201094
+2024-08-03 14:42:07,735 - train - INFO - train loss reconstruction: 5545.142822
+2024-08-03 14:42:10,244 - train - INFO - epoch: 1890
+2024-08-03 14:42:10,501 - train - INFO - train loss: 5485.550781
+2024-08-03 14:42:10,501 - train - INFO - train loss kl: -36.655535
+2024-08-03 14:42:10,501 - train - INFO - train loss reconstruction: 5485.550781
+2024-08-03 14:42:12,815 - train - INFO - epoch: 1900
+2024-08-03 14:42:13,086 - train - INFO - train loss: 5506.508827
+2024-08-03 14:42:13,087 - train - INFO - train loss kl: -36.784039
+2024-08-03 14:42:13,087 - train - INFO - train loss reconstruction: 5506.508827
+2024-08-03 14:42:13,411 - train - INFO - valid loss: 7243.204590
+2024-08-03 14:42:13,415 - train - INFO - valid accuracy: nan
+2024-08-03 14:42:15,800 - train - INFO - epoch: 1910
+2024-08-03 14:42:16,076 - train - INFO - train loss: 5554.285814
+2024-08-03 14:42:16,076 - train - INFO - train loss kl: -36.978199
+2024-08-03 14:42:16,076 - train - INFO - train loss reconstruction: 5554.285814
+2024-08-03 14:42:18,449 - train - INFO - epoch: 1920
+2024-08-03 14:42:18,717 - train - INFO - train loss: 5507.671556
+2024-08-03 14:42:18,717 - train - INFO - train loss kl: -37.232219
+2024-08-03 14:42:18,717 - train - INFO - train loss reconstruction: 5507.671556
+2024-08-03 14:42:21,063 - train - INFO - epoch: 1930
+2024-08-03 14:42:21,316 - train - INFO - train loss: 5596.468205
+2024-08-03 14:42:21,316 - train - INFO - train loss kl: -37.797463
+2024-08-03 14:42:21,316 - train - INFO - train loss reconstruction: 5596.468205
+2024-08-03 14:42:23,652 - train - INFO - epoch: 1940
+2024-08-03 14:42:23,913 - train - INFO - train loss: 5521.191688
+2024-08-03 14:42:23,913 - train - INFO - train loss kl: -37.130375
+2024-08-03 14:42:23,913 - train - INFO - train loss reconstruction: 5521.191688
+2024-08-03 14:42:26,245 - train - INFO - epoch: 1950
+2024-08-03 14:42:26,500 - train - INFO - train loss: 5594.664626
+2024-08-03 14:42:26,500 - train - INFO - train loss kl: -37.714102
+2024-08-03 14:42:26,500 - train - INFO - train loss reconstruction: 5594.664626
+2024-08-03 14:42:28,846 - train - INFO - epoch: 1960
+2024-08-03 14:42:29,091 - train - INFO - train loss: 5522.700270
+2024-08-03 14:42:29,092 - train - INFO - train loss kl: -37.782231
+2024-08-03 14:42:29,092 - train - INFO - train loss reconstruction: 5522.700270
+2024-08-03 14:42:31,410 - train - INFO - epoch: 1970
+2024-08-03 14:42:31,680 - train - INFO - train loss: 5576.776611
+2024-08-03 14:42:31,680 - train - INFO - train loss kl: -37.406637
+2024-08-03 14:42:31,680 - train - INFO - train loss reconstruction: 5576.776611
+2024-08-03 14:42:34,033 - train - INFO - epoch: 1980
+2024-08-03 14:42:34,296 - train - INFO - train loss: 5569.406212
+2024-08-03 14:42:34,297 - train - INFO - train loss kl: -37.192302
+2024-08-03 14:42:34,297 - train - INFO - train loss reconstruction: 5569.406212
+2024-08-03 14:42:36,611 - train - INFO - epoch: 1990
+2024-08-03 14:42:36,868 - train - INFO - train loss: 5445.517879
+2024-08-03 14:42:36,868 - train - INFO - train loss kl: -37.652101
+2024-08-03 14:42:36,868 - train - INFO - train loss reconstruction: 5445.517879
+2024-08-03 14:42:39,197 - train - INFO - epoch: 2000
+2024-08-03 14:42:39,470 - train - INFO - train loss: 5464.482891
+2024-08-03 14:42:39,471 - train - INFO - train loss kl: -37.142986
+2024-08-03 14:42:39,471 - train - INFO - train loss reconstruction: 5464.482891
+2024-08-03 14:42:39,776 - train - INFO - valid loss: 7251.021484
+2024-08-03 14:42:39,777 - train - INFO - valid accuracy: nan
+2024-08-03 14:42:42,131 - train - INFO - epoch: 2010
+2024-08-03 14:42:42,379 - train - INFO - train loss: 5505.138822
+2024-08-03 14:42:42,380 - train - INFO - train loss kl: -37.992646
+2024-08-03 14:42:42,380 - train - INFO - train loss reconstruction: 5505.138822
+2024-08-03 14:42:44,714 - train - INFO - epoch: 2020
+2024-08-03 14:42:44,984 - train - INFO - train loss: 5464.603666
+2024-08-03 14:42:44,985 - train - INFO - train loss kl: -37.458359
+2024-08-03 14:42:44,985 - train - INFO - train loss reconstruction: 5464.603666
+2024-08-03 14:42:47,490 - train - INFO - epoch: 2030
+2024-08-03 14:42:47,746 - train - INFO - train loss: 5485.803335
+2024-08-03 14:42:47,746 - train - INFO - train loss kl: -37.728360
+2024-08-03 14:42:47,746 - train - INFO - train loss reconstruction: 5485.803335
+2024-08-03 14:42:50,093 - train - INFO - epoch: 2040
+2024-08-03 14:42:50,354 - train - INFO - train loss: 5546.436786
+2024-08-03 14:42:50,354 - train - INFO - train loss kl: -37.698773
+2024-08-03 14:42:50,354 - train - INFO - train loss reconstruction: 5546.436786
+2024-08-03 14:42:52,705 - train - INFO - epoch: 2050
+2024-08-03 14:42:52,957 - train - INFO - train loss: 5491.319411
+2024-08-03 14:42:52,957 - train - INFO - train loss kl: -38.074445
+2024-08-03 14:42:52,957 - train - INFO - train loss reconstruction: 5491.319411
+2024-08-03 14:42:55,380 - train - INFO - epoch: 2060
+2024-08-03 14:42:55,634 - train - INFO - train loss: 5438.330566
+2024-08-03 14:42:55,635 - train - INFO - train loss kl: -37.851776
+2024-08-03 14:42:55,635 - train - INFO - train loss reconstruction: 5438.330566
+2024-08-03 14:42:57,979 - train - INFO - epoch: 2070
+2024-08-03 14:42:58,240 - train - INFO - train loss: 5493.178429
+2024-08-03 14:42:58,241 - train - INFO - train loss kl: -37.983799
+2024-08-03 14:42:58,241 - train - INFO - train loss reconstruction: 5493.178429
+2024-08-03 14:43:00,681 - train - INFO - epoch: 2080
+2024-08-03 14:43:00,968 - train - INFO - train loss: 5631.213642
+2024-08-03 14:43:00,968 - train - INFO - train loss kl: -37.481050
+2024-08-03 14:43:00,969 - train - INFO - train loss reconstruction: 5631.213642
+2024-08-03 14:43:03,323 - train - INFO - epoch: 2090
+2024-08-03 14:43:03,581 - train - INFO - train loss: 5528.392090
+2024-08-03 14:43:03,581 - train - INFO - train loss kl: -38.657101
+2024-08-03 14:43:03,581 - train - INFO - train loss reconstruction: 5528.392090
+2024-08-03 14:43:05,919 - train - INFO - epoch: 2100
+2024-08-03 14:43:06,181 - train - INFO - train loss: 5471.898043
+2024-08-03 14:43:06,181 - train - INFO - train loss kl: -38.780403
+2024-08-03 14:43:06,181 - train - INFO - train loss reconstruction: 5471.898043
+2024-08-03 14:43:06,493 - train - INFO - valid loss: 7185.183838
+2024-08-03 14:43:06,494 - train - INFO - valid accuracy: nan
+2024-08-03 14:43:08,869 - train - INFO - epoch: 2110
+2024-08-03 14:43:09,127 - train - INFO - train loss: 5490.185866
+2024-08-03 14:43:09,127 - train - INFO - train loss kl: -38.869637
+2024-08-03 14:43:09,127 - train - INFO - train loss reconstruction: 5490.185866
+2024-08-03 14:43:11,503 - train - INFO - epoch: 2120
+2024-08-03 14:43:11,767 - train - INFO - train loss: 5428.679030
+2024-08-03 14:43:11,767 - train - INFO - train loss kl: -38.603778
+2024-08-03 14:43:11,767 - train - INFO - train loss reconstruction: 5428.679030
+2024-08-03 14:43:14,126 - train - INFO - epoch: 2130
+2024-08-03 14:43:14,405 - train - INFO - train loss: 5523.889724
+2024-08-03 14:43:14,406 - train - INFO - train loss kl: -38.423573
+2024-08-03 14:43:14,406 - train - INFO - train loss reconstruction: 5523.889724
+2024-08-03 14:43:16,742 - train - INFO - epoch: 2140
+2024-08-03 14:43:16,999 - train - INFO - train loss: 5464.973576
+2024-08-03 14:43:16,999 - train - INFO - train loss kl: -39.254373
+2024-08-03 14:43:16,999 - train - INFO - train loss reconstruction: 5464.973576
+2024-08-03 14:43:19,362 - train - INFO - epoch: 2150
+2024-08-03 14:43:19,619 - train - INFO - train loss: 5388.851281
+2024-08-03 14:43:19,620 - train - INFO - train loss kl: -38.436523
+2024-08-03 14:43:19,620 - train - INFO - train loss reconstruction: 5388.851281
+2024-08-03 14:43:22,140 - train - INFO - epoch: 2160
+2024-08-03 14:43:22,398 - train - INFO - train loss: 5438.031288
+2024-08-03 14:43:22,398 - train - INFO - train loss kl: -38.253684
+2024-08-03 14:43:22,399 - train - INFO - train loss reconstruction: 5438.031288
+2024-08-03 14:43:24,758 - train - INFO - epoch: 2170
+2024-08-03 14:43:25,011 - train - INFO - train loss: 5499.995831
+2024-08-03 14:43:25,011 - train - INFO - train loss kl: -38.931279
+2024-08-03 14:43:25,011 - train - INFO - train loss reconstruction: 5499.995831
+2024-08-03 14:43:27,344 - train - INFO - epoch: 2180
+2024-08-03 14:43:27,632 - train - INFO - train loss: 5499.444411
+2024-08-03 14:43:27,633 - train - INFO - train loss kl: -39.593480
+2024-08-03 14:43:27,633 - train - INFO - train loss reconstruction: 5499.444411
+2024-08-03 14:43:30,053 - train - INFO - epoch: 2190
+2024-08-03 14:43:30,316 - train - INFO - train loss: 5581.537692
+2024-08-03 14:43:30,316 - train - INFO - train loss kl: -39.271326
+2024-08-03 14:43:30,317 - train - INFO - train loss reconstruction: 5581.537692
+2024-08-03 14:43:32,679 - train - INFO - epoch: 2200
+2024-08-03 14:43:32,936 - train - INFO - train loss: 5606.117788
+2024-08-03 14:43:32,936 - train - INFO - train loss kl: -39.577491
+2024-08-03 14:43:32,937 - train - INFO - train loss reconstruction: 5606.117788
+2024-08-03 14:43:33,267 - train - INFO - valid loss: 7229.148926
+2024-08-03 14:43:33,268 - train - INFO - valid accuracy: nan
+2024-08-03 14:43:35,653 - train - INFO - epoch: 2210
+2024-08-03 14:43:35,905 - train - INFO - train loss: 5486.209548
+2024-08-03 14:43:35,905 - train - INFO - train loss kl: -38.537005
+2024-08-03 14:43:35,905 - train - INFO - train loss reconstruction: 5486.209548
+2024-08-03 14:43:38,412 - train - INFO - epoch: 2220
+2024-08-03 14:43:38,674 - train - INFO - train loss: 5535.303880
+2024-08-03 14:43:38,674 - train - INFO - train loss kl: -39.177403
+2024-08-03 14:43:38,674 - train - INFO - train loss reconstruction: 5535.303880
+2024-08-03 14:43:41,047 - train - INFO - epoch: 2230
+2024-08-03 14:43:41,318 - train - INFO - train loss: 5491.290283
+2024-08-03 14:43:41,318 - train - INFO - train loss kl: -38.340639
+2024-08-03 14:43:41,318 - train - INFO - train loss reconstruction: 5491.290283
+2024-08-03 14:43:43,709 - train - INFO - epoch: 2240
+2024-08-03 14:43:43,970 - train - INFO - train loss: 5523.441125
+2024-08-03 14:43:43,971 - train - INFO - train loss kl: -39.296068
+2024-08-03 14:43:43,971 - train - INFO - train loss reconstruction: 5523.441125
+2024-08-03 14:43:46,336 - train - INFO - epoch: 2250
+2024-08-03 14:43:46,595 - train - INFO - train loss: 5511.200515
+2024-08-03 14:43:46,595 - train - INFO - train loss kl: -40.568043
+2024-08-03 14:43:46,596 - train - INFO - train loss reconstruction: 5511.200515
+2024-08-03 14:43:48,967 - train - INFO - epoch: 2260
+2024-08-03 14:43:49,235 - train - INFO - train loss: 5504.149170
+2024-08-03 14:43:49,235 - train - INFO - train loss kl: -40.430589
+2024-08-03 14:43:49,235 - train - INFO - train loss reconstruction: 5504.149170
+2024-08-03 14:43:51,609 - train - INFO - epoch: 2270
+2024-08-03 14:43:51,859 - train - INFO - train loss: 5497.472844
+2024-08-03 14:43:51,860 - train - INFO - train loss kl: -39.891097
+2024-08-03 14:43:51,860 - train - INFO - train loss reconstruction: 5497.472844
+2024-08-03 14:43:54,515 - train - INFO - epoch: 2280
+2024-08-03 14:43:54,780 - train - INFO - train loss: 5433.181340
+2024-08-03 14:43:54,780 - train - INFO - train loss kl: -40.492707
+2024-08-03 14:43:54,780 - train - INFO - train loss reconstruction: 5433.181340
+2024-08-03 14:43:57,351 - train - INFO - epoch: 2290
+2024-08-03 14:43:57,631 - train - INFO - train loss: 5502.113901
+2024-08-03 14:43:57,632 - train - INFO - train loss kl: -40.187891
+2024-08-03 14:43:57,632 - train - INFO - train loss reconstruction: 5502.113901
+2024-08-03 14:44:00,248 - train - INFO - epoch: 2300
+2024-08-03 14:44:00,528 - train - INFO - train loss: 5494.694392
+2024-08-03 14:44:00,529 - train - INFO - train loss kl: -40.105029
+2024-08-03 14:44:00,529 - train - INFO - train loss reconstruction: 5494.694392
+2024-08-03 14:44:00,876 - train - INFO - valid loss: 7240.838379
+2024-08-03 14:44:00,878 - train - INFO - valid accuracy: nan
+2024-08-03 14:44:03,887 - train - INFO - epoch: 2310
+2024-08-03 14:44:04,162 - train - INFO - train loss: 5555.152081
+2024-08-03 14:44:04,162 - train - INFO - train loss kl: -40.418343
+2024-08-03 14:44:04,162 - train - INFO - train loss reconstruction: 5555.152081
+2024-08-03 14:44:06,620 - train - INFO - epoch: 2320
+2024-08-03 14:44:06,973 - train - INFO - train loss: 5478.998629
+2024-08-03 14:44:06,973 - train - INFO - train loss kl: -40.167763
+2024-08-03 14:44:06,973 - train - INFO - train loss reconstruction: 5478.998629
+2024-08-03 14:44:09,818 - train - INFO - epoch: 2330
+2024-08-03 14:44:10,087 - train - INFO - train loss: 5468.721342
+2024-08-03 14:44:10,087 - train - INFO - train loss kl: -41.051862
+2024-08-03 14:44:10,087 - train - INFO - train loss reconstruction: 5468.721342
+2024-08-03 14:44:12,452 - train - INFO - epoch: 2340
+2024-08-03 14:44:12,748 - train - INFO - train loss: 5537.620399
+2024-08-03 14:44:12,749 - train - INFO - train loss kl: -40.292635
+2024-08-03 14:44:12,749 - train - INFO - train loss reconstruction: 5537.620399
+2024-08-03 14:44:15,249 - train - INFO - epoch: 2350
+2024-08-03 14:44:15,523 - train - INFO - train loss: 5477.620267
+2024-08-03 14:44:15,523 - train - INFO - train loss kl: -40.445713
+2024-08-03 14:44:15,523 - train - INFO - train loss reconstruction: 5477.620267
+2024-08-03 14:44:17,963 - train - INFO - epoch: 2360
